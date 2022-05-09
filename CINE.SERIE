@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Latino",########## Latino ##########
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6765
-
 #EXTINF:0 tvg-id="ext" group-title="Documentaries",------- Documentaries -------
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688536
 #EXTINF:0 tvg-id="ext" group-title="Documentaries",Discovery FHD LAM

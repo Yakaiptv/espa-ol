@@ -1,4 +1,160 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/679812
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Movies & Series",AXN HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7252
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Movies & Series",AXN ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13543
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Movies & Series",AXN White FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7251
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Movies & Series",AXN White ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13542
+#EXTINF:0 tvg-id="AMC.es" group-title="Movies & Series",AMC FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7255
+#EXTINF:0 tvg-id="Scifi.es" group-title="Movies & Series",SyFy FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13522
+#EXTINF:0 tvg-id="Scifi.es" group-title="Movies & Series",SyFy HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13523
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Fox FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16267
+#EXTINF:0 tvg-id="Fox.es" group-title="Movies & Series",Fox ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7220
+#EXTINF:0 tvg-id="FoxLife.es" group-title="Movies & Series",FOX Life FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16266
+#EXTINF:0 tvg-id="FoxLife.es" group-title="Movies & Series",Fox Life ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7219
+#EXTINF:0 tvg-id="TNT.es" group-title="Movies & Series",TNT FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7177
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sundance TV ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/14121
+#EXTINF:0 tvg-id="M.Series.es" group-title="Movies & Series",Movistar Series FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7191
+#EXTINF:0 tvg-id="M.Series.es" group-title="Movies & Series",Movistar Series HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16282
+#EXTINF:0 tvg-id="M.Series.es" group-title="Movies & Series",Movistar Series ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8767
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Seriesmania FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7190
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Seriesmania HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7234
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Seriesmania ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8770
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Movies & Series",Movistar Accion FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7245
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Movies & Series",Movistar Accion HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16280
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Movies & Series",Movistar Accion ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7195
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Drama FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/685775
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Drama HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/685776
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Movies & Series",Movistar Comedia FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7243
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Movies & Series",Movistar Comedia HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7194
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar Esternos FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7192
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Movies & Series",Movistar Estrenos FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686790
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Movies & Series",Movistar Estrenos HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8771
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Movies & Series",Movistar Estrenos ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16262
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Movies & Series",Movistar Estrenos ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7222
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Movies & Series",Movistar DCine FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16279
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Movies & Series",Movistar DCine HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7193
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Movies & Series",Movistar DCine ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7242
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Movistar CineDoc & Roll ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7233
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Neox TV HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7186
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Neox TV ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/16264
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Movies & Series",Cosmo FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7229
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Cosmopolitan HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13537
+#EXTINF:0 tvg-id="Calle13.es" group-title="Movies & Series",Calle 13 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7247
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Movies & Series",Comedy Central HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7230
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",A3 Series ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13544
+#EXTINF:0 tvg-id="Nova.es" group-title="Movies & Series",Nova ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7183
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Divinity HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13534
+#EXTINF:0 tvg-id="Energy.es" group-title="Movies & Series",Energy ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8765
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 1 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7211
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 1 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8756
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 2 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7210
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 2 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8755
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 3 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7209
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 3 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8754
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 4 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7208
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 5 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7207
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 5 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8752
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 6 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7206
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 6 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8751
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 7 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7205
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 7 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8750
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 8 HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7204
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Taquilla 8 ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13520
+#EXTINF:0 tvg-id="TCM.es" group-title="Movies & Series",TCM HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7180
+#EXTINF:0 tvg-id="Paramount.es" group-title="Movies & Series",Paramount Channel ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8769
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Movies & Series",Hollywood FHD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8768
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Movies & Series",Hollywood HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7216
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682903
+#EXTINF:0 tvg-id="axn.pt" group-title="Movies & Series",AXN FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7538
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Movies & Series",AXN White FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7536
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",AXN Movies FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7537
+#EXTINF:0 tvg-id="AMC.pt" group-title="Movies & Series",AMC PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7539
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Movies & Series",Fox Crime FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8810
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Movies & Series",Fox Comedy PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7515
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Movies & Series",Fox Life FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7514
+#EXTINF:0 tvg-id="fox.pt" group-title="Movies & Series",Fox FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7456
+#EXTINF:0 tvg-id="fox.pt" group-title="Movies & Series",Fox HD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7516
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Syfy HD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7454
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Movies & Series",Syfy PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7475
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Fox Movies FHD PT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7513
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA1 FHD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/16288
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA1 HD ES
@@ -41,54 +197,7 @@ http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7175
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7254
 #EXTINF:0 tvg-id="ext" group-title="Channels",Red Advenir ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13524
-#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Sports ???
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/679811
-#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7248
-#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/8745
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD VIP ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/683544
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD VIP ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/683545
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7246
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13549
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/669971
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/16274
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/682871
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/682872
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/620686
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/620685
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/16278
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7240
-#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7237
-#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13550
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13457
-#EXTINF:0 tvg-id="ext" group-title="Channels",Teledeporte HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7178
-#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid Channel HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7182
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",Barca TV ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7250
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",Eurosport 1 FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/8746
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2 FHD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13531
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros HD ES
-http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13548
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ETB 1 HD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/684922
 #EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Movies & Series ???

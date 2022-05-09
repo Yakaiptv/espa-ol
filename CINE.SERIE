@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Latino",########## Latino ##########
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6765
+
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",------- Documentaries -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688536
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Discovery FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/687924
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Animal Planet LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6675
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Discovery Home and Health LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6696
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Investigation Discovery FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/692974
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",HGTV LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6695
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",E! Entertainment FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688426
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Lifetime LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6732
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Canal Gourmet FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6687
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Tru TV LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6760
+___________________________________________
 #EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688534
 #EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Cinema FHD LAM

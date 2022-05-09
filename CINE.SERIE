@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688534
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Cinema FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6715
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Action HD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6714
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Classics FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6716
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Hits FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6720
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Series LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6718
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Star Life FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6719
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Golden MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6727
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Golden Edge MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6728
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Studio Universal MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6741
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TNT Series FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6750
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",SyFy FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6742
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Space FHD MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6740
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TCM LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6758
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",A&E LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6673
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",AMC LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6674
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",AXN LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6762
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Cinecanal FHD LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6691
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",De Pelicula MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6711
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Distrito Comedia MX
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6705
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",------- Entertainment -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/679816
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",MTV Espana ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8759
+#EXTINF:0 tvg-id="FDF.es" group-title="Entertainment",FDF ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7221
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Ten ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13518
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Mezzo HD ES
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7212
 
 #EXTINF:-1,LAT | DISNEY CHANNEL FHD
 http://tvencasa.fun:2052/CARLOS/CARLOS/240674

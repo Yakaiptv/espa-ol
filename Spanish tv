@@ -1,4 +1,164 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Movies & Series ???
+http://mytv.fun:8080/mbg958k19/m2858nffk4/679812
+#EXTINF:0 tvg-id="M.Series.es" group-title="Channels",Movistar Series FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7191
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Series 2 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7190
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Channels",Movistar Accion FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7245
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Channels",Movistar Accion HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16280
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Drama FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/685775
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Drama HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/685776
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Channels",Movistar Comedia FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7243
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Channels",Movistar Comedia HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7194
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",Movistar Estrenos FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7192
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",Movistar Estrenos ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7222
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar #0 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13539
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar #0 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16283
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7252
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN White HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13542
+#EXTINF:0 tvg-id="AMC.es" group-title="Channels",AMC FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7255
+#EXTINF:0 tvg-id="Scifi.es" group-title="Channels",SyFy FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13522
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16267
+#EXTINF:0 tvg-id="TNT.es" group-title="Channels",TNT FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7177
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sundance TV ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/14121
+#EXTINF:0 tvg-id="ext" group-title="Channels",Neox TV FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7186
+#EXTINF:0 tvg-id="ext" group-title="Channels",Neox TV HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16264
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cosmopolitan TV FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7229
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cosmopolitan TV HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13537
+#EXTINF:0 tvg-id="Calle13.es" group-title="Channels",Calle 13 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7247
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Channels",Comedy Central HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7230
+#EXTINF:0 tvg-id="ext" group-title="Channels",Atreseries FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13544
+#EXTINF:0 tvg-id="Nova.es" group-title="Channels",Nova ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7183
+#EXTINF:0 tvg-id="ext" group-title="Channels",Divinity HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13534
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8765
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 1 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7211
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 1 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8756
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 2 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7210
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 2 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8755
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 3 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7209
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 3 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 4 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7208
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 5 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7207
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 5 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8752
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 6 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7206
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 6 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8751
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 7 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7205
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 7 ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8750
+#EXTINF:0 tvg-id="ext" group-title="Channels",Taquilla 8 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13520
+#EXTINF:0 tvg-id="TCM.es" group-title="Channels",TCM HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7180
+#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",Paramount Channel ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8769
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Channels",Hollywood FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8768
+#EXTINF:0 tvg-id="ext" group-title="Channels",XTRM HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13527
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Documentary ???
+http://mytv.fun:8080/mbg958k19/m2858nffk4/679813
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Channels",Discovery Channel ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7226
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Channels",National Geographic HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13528
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Channels",National Geographic FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16270
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",Nat Geo Wild HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7188
+#EXTINF:0 tvg-id="ext" group-title="Channels",Historia FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7217
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Cocina HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7244
+#EXTINF:0 tvg-id="ext" group-title="Channels",DeCasa ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7241
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dmax ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13535
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dkiss HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13533
+#EXTINF:0 tvg-id="ext" group-title="Channels",Be Mad TV ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/683552
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mega ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13824
+#EXTINF:0 tvg-id="ext" group-title="Channels",Caza y Pesca FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16269
+#EXTINF:0 tvg-id="ext" group-title="Channels",Caza y Pesca FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7232
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iberalia ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7171
+#EXTINF:0 tvg-id="ext" group-title="Channels",Odisea TV HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/685777
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Entertainment ???
+http://mytv.fun:8080/mbg958k19/m2858nffk4/679816
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Espana ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8759
+#EXTINF:0 tvg-id="FDF.es" group-title="Channels",FDF ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7221
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ten ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13518
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mezzo HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7212
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Children ???
+http://mytv.fun:8080/mbg958k19/m2858nffk4/679814
+#EXTINF:0 tvg-id="BabyTV.es" group-title="Channels",Baby TV ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8774
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",Disney Channel FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16287
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Channels",Nickelodeon HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16268
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr. ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13526
+#EXTINF:0 tvg-id="Boing.es" group-title="Channels",Boing ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8773
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",Canal Panda ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/53156
+#EXTINF:0 tvg-id="ext" group-title="Channels",Clan TVE HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7231
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Estrenos 2 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694263
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Fest 2 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694264
+_________________________________________
 #EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/679812
 #EXTINF:0 tvg-id="AXNhd.es" group-title="Movies & Series",AXN HD ES

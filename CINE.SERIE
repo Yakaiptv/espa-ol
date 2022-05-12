@@ -99,6 +99,414 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device%7DTARBENT=PT %7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-id="LAT | DISNEY CHANNEL FHD" tvg-name="LAT | DISNEY CHANNEL FHD" tvg-logo="https://i.ibb.co/M6C0ktC/DISNEYHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | DISNEY CHANNEL FHD
+http://tvencasa.fun:2052/4236/4236/240674
+
+#EXTINF:-1 tvg-id="LAT | DISNEY CHANNEL" tvg-name="LAT | DISNEY CHANNEL" tvg-logo="https://i.ibb.co/M6C0ktC/DISNEYHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | DISNEY CHANNEL
+http://tvencasa.fun:2052/4236/4236/50153
+
+#EXTINF:-1 tvg-id="LAT | DISNEY XD HD" tvg-name="LAT | DISNEY XD HD" tvg-logo="https://i.ibb.co/XyQVDNm/large-thumbnail-1.png" group-title="TV | Infantil",LAT | DISNEY XD HD
+http://tvencasa.fun:2052/4236/4236/174780
+
+#EXTINF:-1 tvg-id="LAT | DISNEY JUNIOR  HD" tvg-name="LAT | DISNEY JUNIOR  HD" tvg-logo="https://i.ibb.co/GCHvFrp/DISNEYJUNIORWHORIZONTAL.png" group-title="TV | Infantil",LAT | DISNEY JUNIOR  HD
+http://tvencasa.fun:2052/4236/4236/173924
+
+#EXTINF:-1 tvg-id="LAT | DISCOVERY KIDS HD" tvg-name="LAT | DISCOVERY KIDS HD" tvg-logo="https://i.ibb.co/vkrH0Ft/kisspng-discovery-kids-television-channel-discovery-channe-kids-logo-5b39aafcdda395-1583384515305059.png" group-title="TV | Infantil",LAT | DISCOVERY KIDS HD
+http://tvencasa.fun:2052/4236/4236/239920
+
+#EXTINF:-1 tvg-id="LAT | BOOMERANG HD" tvg-name="LAT | BOOMERANG HD" tvg-logo="https://i.ibb.co/72fn6d2/BOOMERANGHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | BOOMERANG HD
+http://tvencasa.fun:2052/4236/4236/240697
+
+#EXTINF:-1 tvg-id="LAT | BOOMERANG" tvg-name="LAT | BOOMERANG" tvg-logo="https://i.ibb.co/72fn6d2/BOOMERANGHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | BOOMERANG
+http://tvencasa.fun:2052/4236/4236/50115
+
+#EXTINF:-1 tvg-id="LAT | CARTOON NETWORK HD" tvg-name="LAT | CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/9sR2dbd/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6-8778586515229005493.png" group-title="TV | Infantil",LAT | CARTOON NETWORK HD
+http://tvencasa.fun:2052/4236/4236/176293
+
+#EXTINF:-1 tvg-id="LAT | CARTOON NETWORK" tvg-name="LAT | CARTOON NETWORK " tvg-logo="https://i.ibb.co/9sR2dbd/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6-8778586515229005493.png" group-title="TV | Infantil",LAT | CARTOON NETWORK
+http://tvencasa.fun:2052/4236/4236/5109
+
+#EXTINF:-1 tvg-id="LAT | NAT GEO KIDS HD" tvg-name="LAT | NAT GEO KIDS HD" tvg-logo="https://i.ibb.co/GRBBWk1/NATGEOKIDSHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | NAT GEO KIDS HD
+http://tvencasa.fun:2052/4236/4236/49675
+
+#EXTINF:-1 tvg-id="LAT | COCO TV" tvg-name="LAT | COCO TV " tvg-logo="https://cdn.shopify.com/s/files/1/0260/0917/4088/files/logo_coco.png" group-title="TV | Infantil",LAT | COCO TV
+http://tvencasa.fun:2052/4236/4236/239017
+
+#EXTINF:-1 tvg-id="LAT | NICK HD" tvg-name="LAT | NICK HD" tvg-logo="https://i.ibb.co/cb9T7n9/ar-nickelodeon-m.png" group-title="TV | Infantil",LAT | NICK HD
+http://tvencasa.fun:2052/4236/4236/5103
+
+#EXTINF:-1 tvg-id="LAT | NICK 2 HD" tvg-name="LAT | NICK 2 HD" tvg-logo="https://i.ibb.co/n38YBm2/NICK2-HDWHORIZONTAL.png" group-title="TV | Infantil",LAT | NICK 2 HD
+http://tvencasa.fun:2052/4236/4236/49681
+
+#EXTINF:-1 tvg-id="LAT | NICK JR HQ" tvg-name="LAT | NICK JR HQ" tvg-logo="https://i.ibb.co/LzmFyCT/NICKJRHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | NICK JR HQ
+http://tvencasa.fun:2052/4236/4236/174783
+
+#EXTINF:-1 tvg-id="LAT | NICK JR HD" tvg-name="LAT | NICK JR HD" tvg-logo="https://i.ibb.co/LzmFyCT/NICKJRHDWHORIZONTAL.png" group-title="TV | Infantil",LAT | NICK JR HD
+http://tvencasa.fun:2052/4236/4236/49683
+
+#EXTINF:-1 tvg-id="LAT | BABY TV" tvg-name="LAT | BABY TV " tvg-logo="https://unix.oppserver.net/xbmc/addons/pvr/stationlogos/babytv.png" group-title="TV | Infantil",LAT | BABY TV
+http://tvencasa.fun:2052/4236/4236/5098
+
+#EXTINF:-1 tvg-id="LAT | TOONCAST" tvg-name="LAT | TOONCAST" tvg-logo="https://i.ibb.co/d274WVb/TOONCASTWHORIZONTAL.png" group-title="TV | Infantil",LAT | TOONCAST
+http://tvencasa.fun:2052/4236/4236/49717
+
+#EXTINF:-1 tvg-id="LAT | SEMILLITAS" tvg-name="LAT | SEMILLITAS" tvg-logo="https://i.ibb.co/KyjCZyC/semillitas-tv-1671.png" group-title="TV | Infantil",LAT | SEMILLITAS
+http://tvencasa.fun:2052/4236/4236/239868
+
+#EXTINF:-1 tvg-id="LAT | ZOOMOO" tvg-name="LAT | ZOOMOO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_zoomoo_m.png" group-title="TV | Infantil",LAT | ZOOMOO
+http://tvencasa.fun:2052/4236/4236/239869
+
+#EXTINF:-1 tvg-id="LAT | DISNEY JUNIOR" tvg-name="LAT | DISNEY JUNIOR" tvg-logo="https://i.ibb.co/GCHvFrp/DISNEYJUNIORWHORIZONTAL.png" group-title="TV | Infantil",LAT | DISNEY JUNIOR
+http://tvencasa.fun:2052/4236/4236/50154
+
+#EXTINF:-1 tvg-id="LAT | Discovery Channel HD (sur)" tvg-name="LAT | Discovery Channel HD (sur)" tvg-logo="https://i.ibb.co/wwWv5r8/DISCOVERYCHANNELHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Discovery Channel HD (sur)
+http://tvencasa.fun:2052/4236/4236/191921
+
+#EXTINF:-1 tvg-id="LAT | Discovery Channel" tvg-name="LAT | Discovery Channel " tvg-logo="https://i.ibb.co/wwWv5r8/DISCOVERYCHANNELHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Discovery Channel
+http://tvencasa.fun:2052/4236/4236/4358
+
+#EXTINF:-1 tvg-id="LAT | Animal Planet" tvg-name="LAT | Animal Planet" tvg-logo="https://i.ibb.co/xC4fJbW/444-4448705-mihsign-vision-animal-planet-hd-logo-hd-png.png" group-title="TV | Documentales",LAT | Animal Planet
+http://tvencasa.fun:2052/4236/4236/5149
+
+#EXTINF:-1 tvg-id="LAT | Investigation Discovery HD (sur)" tvg-name="LAT | Investigation Discovery HD (sur)" tvg-logo="https://i.ibb.co/hKf4yj0/IDHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Investigation Discovery HD (sur)
+http://tvencasa.fun:2052/4236/4236/49659
+
+#EXTINF:-1 tvg-id="LAT | Investigation Discovery" tvg-name="LAT | Investigation Discovery" tvg-logo="https://i.ibb.co/hKf4yj0/IDHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Investigation Discovery
+http://tvencasa.fun:2052/4236/4236/176478
+
+#EXTINF:-1 tvg-id="LAT | Discovery home and health HD (sur)" tvg-name="LAT | Discovery home and health HD (sur)" tvg-logo="https://i.ibb.co/DLs2pFG/DISCOVERYHOMEANDHEALTHHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Discovery home and health HD (sur)
+http://tvencasa.fun:2052/4236/4236/50147
+
+#EXTINF:-1 tvg-id="LAT | Discovery home and health" tvg-name="LAT | Discovery home and health" tvg-logo="https://i.ibb.co/DLs2pFG/DISCOVERYHOMEANDHEALTHHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Discovery home and health
+http://tvencasa.fun:2052/4236/4236/176477
+
+#EXTINF:-1 tvg-id="LAT | Discovery Turbo HD (sur)" tvg-name="LAT | Discovery Turbo HD (sur)" tvg-logo="https://i.ibb.co/6WttYfm/discovery-turbo.png" group-title="TV | Documentales",LAT | Discovery Turbo HD (sur)
+http://tvencasa.fun:2052/4236/4236/175653
+
+#EXTINF:-1 tvg-id="LAT | Discovery Turbo" tvg-name="LAT | Discovery Turbo" tvg-logo="https://i.ibb.co/6WttYfm/discovery-turbo.png" group-title="TV | Documentales",LAT | Discovery Turbo
+http://tvencasa.fun:2052/4236/4236/4352
+
+#EXTINF:-1 tvg-id="LAT | Historia Channel" tvg-name="LAT | Historia Channel HD (sur)" tvg-logo="https://i.ibb.co/TBbW9jD/HISTORYCHANNELHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Historia Channel HD (sur)
+http://tvencasa.fun:2052/4236/4236/175654
+
+#EXTINF:-1 tvg-id="LAT | Historia channel HD (sur)" tvg-name="LAT | Historia channel" tvg-logo="https://i.ibb.co/TBbW9jD/HISTORYCHANNELHDWHORIZONTAL.png" group-title="TV | Documentales",LAT | Historia channel
+http://tvencasa.fun:2052/4236/4236/49655
+
+#EXTINF:-1 tvg-id="Lat | Discovery TLC" tvg-name="Lat | Discovery TLC" tvg-logo="https://i.ibb.co/BfgNYDr/TLCHDWHORIZONTAL.png" group-title="TV | Documentales",Lat | Discovery TLC
+http://tvencasa.fun:2052/4236/4236/49713
+
+#EXTINF:-1 tvg-id="LAT | Discovery Theater HD" tvg-name="LAT | Discovery Theater HD" tvg-logo="https://i.ibb.co/4p7jNc0/kisspng-velocity-logo-discovery-hd-discovery-channel-disco-file-2015-discovery-theater-hd-logo-svg-w.png" group-title="TV | Documentales",LAT | Discovery Theater HD
+http://tvencasa.fun:2052/4236/4236/4353
+
+#EXTINF:-1 tvg-id="LAT | Discovery World" tvg-name="LAT | Discovery World" tvg-logo="https://i.ibb.co/yS8HYs5/cl-discovery-world-hd-m.png" group-title="TV | Documentales",LAT | Discovery World
+http://tvencasa.fun:2052/4236/4236/4351
+
+#EXTINF:-1 tvg-id="LAT | Discovery Science" tvg-name="LAT | Discovery Science" tvg-logo="https://i.ibb.co/YW0RZYh/co-discovery-science-m.png" group-title="TV | Documentales",LAT | Discovery Science
+http://tvencasa.fun:2052/4236/4236/4354
+
+#EXTINF:-1 tvg-id="LAT | Discovery Civilization HD" tvg-name="LAT | Discovery Civilization HD" tvg-logo="https://i.ibb.co/YcrGJsM/co-discovery-civilization-m.png" group-title="TV | Documentales",LAT | Discovery Civilization HD
+http://tvencasa.fun:2052/4236/4236/4357
+
+#EXTINF:-1 tvg-id="LAT | History 2" tvg-name="LAT | History 2" tvg-logo="https://i.ibb.co/Xp28ph1/descarga-1-1.png" group-title="TV | Documentales",LAT | History 2
+http://tvencasa.fun:2052/4236/4236/4318
+
+#EXTINF:-1 tvg-id="LAT | National Geografhic" tvg-name="LAT | National Geografhic  " tvg-logo="https://i.ibb.co/XCp71r3/1452867726-1-original.png" group-title="TV | Documentales",LAT | National Geografhic
+http://tvencasa.fun:2052/4236/4236/186735
+
+#EXTINF:-1 tvg-id="LAT | STAR CHANNEL" tvg-name="LAT | STAR CHANNEL" tvg-logo="https://i.ibb.co/YBY3BJZ/840-560.png" group-title="TV | Premium Channels",LAT | STAR CHANNEL
+http://tvencasa.fun:2052/4236/4236/62674
+
+#EXTINF:-1 tvg-id="LAT | HBO  HD" tvg-name="LAT | HBO  HD" tvg-logo="https://i.ibb.co/NTTxPCK/HBO-simbolo.png" group-title="TV | Premium Channels",LAT | HBO  HD
+http://tvencasa.fun:2052/4236/4236/63425
+
+#EXTINF:-1 tvg-id="LAT | HBO FAMILY" tvg-name="LAT | HBO HD oeste " tvg-logo="https://i.ibb.co/FnB8rMg/450-1000.png" group-title="TV | Premium Channels",LAT | HBO HD oeste
+http://tvencasa.fun:2052/4236/4236/245095
+
+#EXTINF:-1 tvg-id="LAT | HBO 2 HD" tvg-name="LAT | HBO 2 HD" tvg-logo="https://i.ibb.co/HdZddpm/unnamed.png" group-title="TV | Premium Channels",LAT | HBO 2 HD
+http://tvencasa.fun:2052/4236/4236/169945
+
+#EXTINF:-1 tvg-id="LAT | HBO 2 HD" tvg-name="LAT | HBO 2 HD oeste " tvg-logo="https://i.ibb.co/sw3jRg5/images-1.png" group-title="TV | Premium Channels",LAT | HBO 2 HD oeste
+http://tvencasa.fun:2052/4236/4236/245097
+
+#EXTINF:-1 tvg-id="LAT | HBO PLUS HD" tvg-name="LAT | HBO PLUS " tvg-logo="https://i.ibb.co/b1FLjry/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0-083671.png" group-title="TV | Premium Channels",LAT | HBO PLUS
+http://tvencasa.fun:2052/4236/4236/245096
+
+#EXTINF:-1 tvg-id="LAT | HBO PLUS HD" tvg-name="LAT | HBO PLUS HD oeste" tvg-logo="https://i.ibb.co/80XCNZP/images-3.png" group-title="TV | Premium Channels",LAT | HBO PLUS HD oeste
+http://tvencasa.fun:2052/4236/4236/63312
+
+#EXTINF:-1 tvg-id="LAT | HBO SIGNATURE HD" tvg-name="LAT | HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/B606Bt8/XEd15.png" group-title="TV | Premium Channels",LAT | HBO SIGNATURE HD
+http://tvencasa.fun:2052/4236/4236/63427
+
+#EXTINF:-1 tvg-id="LAT | HBO FAMILY" tvg-name="LAT | HBO FAMILY" tvg-logo="https://i.ibb.co/Fg48Lrj/223-2235572-mira-hbo-family-online-desde-tu-dispositivo-gratis-1-2.png" group-title="TV | Premium Channels",LAT | HBO FAMILY
+http://tvencasa.fun:2052/4236/4236/62660
+
+#EXTINF:-1 tvg-id="LAT | HBO POP" tvg-name="LAT | HBO POP" tvg-logo="https://i.ibb.co/N7HRSjf/descarga-2.png" group-title="TV | Premium Channels",LAT | HBO POP
+http://tvencasa.fun:2052/4236/4236/169949
+
+#EXTINF:-1 tvg-id="LAT | HBO MUNDI" tvg-name="LAT | HBO MUNDI " tvg-logo="https://i.ibb.co/yfNZpP9/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png" group-title="TV | Premium Channels",LAT | HBO MUNDI
+http://tvencasa.fun:2052/4236/4236/169958
+
+#EXTINF:-1 tvg-id="LAT | HBO XTREME HD" tvg-name="LAT | HBO XTREME HD" tvg-logo="https://i.ibb.co/9wswcLC/ar-max-prime-panamericano-hd-m.png" group-title="TV | Premium Channels",LAT | HBO XTREME HD
+http://tvencasa.fun:2052/4236/4236/169948
+
+#EXTINF:-1 tvg-id="LAT | DHE HD" tvg-name="LAT | DHE HD" tvg-logo="https://i.ibb.co/gyKYYsX/cl-dhe-m.png" group-title="TV | Premium Channels",LAT | DHE HD
+http://tvencasa.fun:2052/4236/4236/237817
+
+#EXTINF:-1 tvg-id="LAT | PANICO HD" tvg-name="LAT | PANICO HD " tvg-logo="https://i.ibb.co/4F0477w/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnai.png" group-title="TV | Premium Channels",LAT | PANICO HD
+http://tvencasa.fun:2052/4236/4236/237816
+
+#EXTINF:-1 tvg-id="LAT | FX HD" tvg-name="LAT | FX HD " tvg-logo="https://i.ibb.co/4R0HJ6h/FX.png" group-title="TV | Premium Channels",LAT | FX HD
+http://tvencasa.fun:2052/4236/4236/169946
+
+#EXTINF:-1 tvg-id="LAT | GOLDEN EDGE" tvg-name="LAT | GOLDEN " tvg-logo="https://i.ibb.co/3c3Dnjr/images.png" group-title="TV | Premium Channels",LAT | GOLDEN
+http://tvencasa.fun:2052/4236/4236/245270
+
+#EXTINF:-1 tvg-id="LAT | GOLDEN EDGE" tvg-name="LAT | GOLDEN EDGE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="TV | Premium Channels",LAT | GOLDEN EDGE
+http://tvencasa.fun:2052/4236/4236/63280
+
+#EXTINF:-1 tvg-id="LAT | GOLDEN PLUS" tvg-name="LAT | GOLDEN PLUS" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="TV | Premium Channels",LAT | GOLDEN PLUS
+http://tvencasa.fun:2052/4236/4236/63423
+
+#EXTINF:-1 tvg-id="LAT | GOLDEN PREMIER" tvg-name="LAT | GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV | Premium Channels",LAT | GOLDEN PREMIER
+http://tvencasa.fun:2052/4236/4236/62659
+
+#EXTINF:-1 tvg-id="LAT | GOLDEN PREMIER 2" tvg-name="LAT | GOLDEN PREMIER 2" tvg-logo="https://i.ibb.co/x6xSsHN/20210805-123443-1.png" group-title="TV | Premium Channels",LAT | GOLDEN PREMIER 2
+http://tvencasa.fun:2052/4236/4236/239140
+
+#EXTINF:-1 tvg-id="LAT | DE PELICULA PLUS" tvg-name="LAT | DE PELICULA PLUS " tvg-logo="https://i.ibb.co/q5qFHJb/descarga-4.png" group-title="TV | Premium Channels",LAT | DE PELICULA PLUS
+http://tvencasa.fun:2052/4236/4236/63315
+
+#EXTINF:-1 tvg-id="LAT | COCO TV" tvg-name="CINE Y SERIE | CHOCHO TV HD" tvg-logo="https://mediaprocessor.websimages.com/width/543/crop/0,34,543x209/www.chochotv.net/LOGO%20GRANDE%20(solo%20chocho).png" group-title="TV | Premium Channels",CINE Y SERIE | CHOCHO TV HD
+http://tvencasa.fun:2052/4236/4236/245269
+
+#EXTINF:-1 tvg-id="ENTRE |  TELEMUNDO 51 MIAMI" tvg-name="ENTRE |  TELEMUNDO 51 MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="TV  | Entretenimiento",ENTRE |  TELEMUNDO 51 MIAMI
+http://tvencasa.fun:2052/4236/4236/9324
+
+#EXTINF:-1 tvg-id="ENTRE |  UNIVISION MIAMI HD" tvg-name="ENTRE |  UNIVISION MIAMI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="TV  | Entretenimiento",ENTRE |  UNIVISION MIAMI HD
+http://tvencasa.fun:2052/4236/4236/4646
+
+#EXTINF:-1 tvg-id="ENTRE | UNIMAS" tvg-name="ENTRE | UNIMAS" tvg-logo="https://i.pinimg.com/originals/f6/64/77/f6647758c7094100d6af9ec6350b5820.jpg" group-title="TV  | Entretenimiento",ENTRE | UNIMAS
+http://tvencasa.fun:2052/4236/4236/4429
+
+#EXTINF:-1 tvg-id="ENTRE | MEGA TV MIAMI" tvg-name="ENTRE | MEGA TV MIAMI" tvg-logo="https://salamancafilmcommission.com/FOTO/HISTORICO/megatv-opengraph.jpg" group-title="TV  | Entretenimiento",ENTRE | MEGA TV MIAMI
+http://tvencasa.fun:2052/4236/4236/173746
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | America Teve" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="TV  | Entretenimiento",ENTRE | America Teve
+http://tvencasa.fun:2052/4236/4236/246523
+
+#EXTINF:-1 tvg-id="ENTRE | KAMAL D DRAMA" tvg-name="ENTRE | KAMAL D DRAMA " tvg-logo="https://mms.businesswire.com/media/20191218005122/es/763676/23/KANAL_D_DRAMA.jpg" group-title="TV  | Entretenimiento",ENTRE | KAMAL D DRAMA
+http://tvencasa.fun:2052/4236/4236/192027
+
+#EXTINF:-1 tvg-id="ENTRE | COMEDIA CENTRAL" tvg-name="ENTRE | COMEDIA CENTRAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="TV  | Entretenimiento",ENTRE | COMEDIA CENTRAL
+http://tvencasa.fun:2052/4236/4236/54184
+
+#EXTINF:-1 tvg-id="ENTRE | MTV" tvg-name="ENTRE | MTV" tvg-logo="https://smallimg.pngkey.com/png/small/57-579464_mtv-logo-mtv-logo.png" group-title="TV  | Entretenimiento",ENTRE | MTV
+http://tvencasa.fun:2052/4236/4236/207961
+
+#EXTINF:-1 tvg-id="ENTRE |  RCN TELENOVELAS" tvg-name="ENTRE |  RCN TELENOVELAS" tvg-logo="https://i.ibb.co/7QcBdSH/images-1.png" group-title="TV  | Entretenimiento",ENTRE |  RCN TELENOVELAS
+http://tvencasa.fun:2052/4236/4236/166226
+
+#EXTINF:-1 tvg-id="ENTRE | TELEMUNDO INTERNACIONAL HD" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL HD" tvg-logo="https://i.ibb.co/n6PTGBt/10-telemundo-internacional-1920x1080-b2.png" group-title="TV  | Entretenimiento",ENTRE | TELEMUNDO INTERNACIONAL HD
+http://tvencasa.fun:2052/4236/4236/174796
+
+#EXTINF:-1 tvg-id="ENTRE | LAS ESTRELLAS HD" tvg-name="ENTRE | LAS ESTRELLAS HD " tvg-logo="https://i.ibb.co/sWbHYHh/images.png" group-title="TV  | Entretenimiento",ENTRE | LAS ESTRELLAS HD
+http://tvencasa.fun:2052/4236/4236/173920
+
+#EXTINF:-1 tvg-id="ENTRE | E ENTRETENIMIENTO" tvg-name="ENTRE | E ENTRETENIMIENTO " tvg-logo="https://p.kindpng.com/picc/s/386-3868980_e-entertainment-wikipedia-hd-png-download.png" group-title="TV  | Entretenimiento",ENTRE | E ENTRETENIMIENTO
+http://tvencasa.fun:2052/4236/4236/191920
+
+#EXTINF:-1 tvg-id="ENTRE |  MÁS CHIC HD" tvg-name="ENTRE |  MÁS CHIC HD" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/MSCHICHD/EXPORTACION_WEB/SS/MSCHICHDWHORIZONTAL.jpg?size=290x163" group-title="TV  | Entretenimiento",ENTRE |  MÁS CHIC HD
+http://tvencasa.fun:2052/4236/4236/49664
+
+#EXTINF:-1 tvg-id="ENTRE |  FOOD NETWORK HD" tvg-name="ENTRE |  FOOD NETWORK HD" tvg-logo="https://media.elestimulo.com/2015/03/FoodNetwork-1100x572.jpg" group-title="TV  | Entretenimiento",ENTRE |  FOOD NETWORK HD
+http://tvencasa.fun:2052/4236/4236/169962
+
+#EXTINF:-1 tvg-id="ENTRE | DISTRITO COMEDIA HD" tvg-name="ENTRE | DISTRITO COMEDIA HD" tvg-logo="https://i.ibb.co/DtLnKcr/distrito-comedia-1.png" group-title="TV  | Entretenimiento",ENTRE | DISTRITO COMEDIA HD
+http://tvencasa.fun:2052/4236/4236/217191
+
+#EXTINF:-1 tvg-id="ENTRE | LEFITIME HD" tvg-name="ENTRE | LEFITIME HD" tvg-logo="https://www.pngkit.com/png/detail/325-3252055_lifetime-2017-logo-lifetime-tv.png" group-title="TV  | Entretenimiento",ENTRE | LEFITIME HD
+http://tvencasa.fun:2052/4236/4236/166233
+
+#EXTINF:-1 tvg-id="ENTRE |  El GOURMET" tvg-name="ENTRE |  El GOURMET" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="TV  | Entretenimiento",ENTRE |  El GOURMET
+http://tvencasa.fun:2052/4236/4236/4346
+
+#EXTINF:-1 tvg-id="ENTRE |  GALAVISION" tvg-name="ENTRE |  GALAVISION" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="TV  | Entretenimiento",ENTRE |  GALAVISION
+http://tvencasa.fun:2052/4236/4236/4332
+
+#EXTINF:-1 tvg-id="ENTRE |  UNICABLE HD" tvg-name="ENTRE |  UNICABLE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNICABLEHD/EXPORTACION_WEB/SS/UNICABLEHDWHORIZONTAL.jpg?size=290x163" group-title="TV  | Entretenimiento",ENTRE |  UNICABLE HD
+http://tvencasa.fun:2052/4236/4236/49723
+
+#EXTINF:-1 tvg-id="ENTRE | TLENOVELAS" tvg-name="ENTRE | TLENOVELAS" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELASWHORIZONTAL.jpg?size=290x163" group-title="TV  | Entretenimiento",ENTRE | TLENOVELAS
+http://tvencasa.fun:2052/4236/4236/49714
+
+#EXTINF:-1 tvg-id="ENTRE |  TRU TV HD" tvg-name="ENTRE |  TRU TV HD" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/TRUTVHD/EXPORTACION_WEB/SS/TRUTVHDWHORIZONTAL.jpg?size=290x163" group-title="TV  | Entretenimiento",ENTRE |  TRU TV HD
+http://tvencasa.fun:2052/4236/4236/49719
+
+#EXTINF:-1 tvg-id="ENTRE |  PASIONES HD" tvg-name="ENTRE |  PASIONES HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHDWHORIZONTAL.jpg?size=290x163" group-title="TV  | Entretenimiento",ENTRE |  PASIONES HD
+http://tvencasa.fun:2052/4236/4236/49688
+
+#EXTINF:-1 tvg-id="ENTRE | EWTN" tvg-name="ENTRE | EWTN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/618FiOCQcXL.png" group-title="TV  | Entretenimiento",ENTRE | EWTN
+http://tvencasa.fun:2052/4236/4236/210303
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | DW ESPAÑOL " tvg-logo="https://i.ibb.co/6rnhNbd/dwlogo-print.png" group-title="TV  | Entretenimiento",ENTRE | DW ESPAÑOL
+http://tvencasa.fun:2052/4236/4236/244965
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | A&E HD" tvg-name="CINE Y SERIE | A&E HD" tvg-logo="https://i.ibb.co/CQ7CD2D/8-ae-1432373508.png" group-title="TV | Cine y Serie ",CINE Y SERIE | A&E HD
+http://tvencasa.fun:2052/4236/4236/173923
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | A&E" tvg-name="CINE Y SERIE | A&E " tvg-logo="https://i.ibb.co/CQ7CD2D/8-ae-1432373508.png" group-title="TV | Cine y Serie ",CINE Y SERIE | A&E
+http://tvencasa.fun:2052/4236/4236/5191
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | AXN HD" tvg-name="CINE Y SERIE | AXN HD" tvg-logo="https://i.ibb.co/QPLs8v0/nuevo-logo-axn-2.png" group-title="TV | Cine y Serie ",CINE Y SERIE | AXN HD
+http://tvencasa.fun:2052/4236/4236/173922
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | AXN" tvg-name="CINE Y SERIE | AXN" tvg-logo="https://i.ibb.co/QPLs8v0/nuevo-logo-axn-2.png" group-title="TV | Cine y Serie ",CINE Y SERIE | AXN
+http://tvencasa.fun:2052/4236/4236/63415
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | AMC  HD" tvg-name="CINE Y SERIE | AMC  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV | Cine y Serie ",CINE Y SERIE | AMC  HD
+http://tvencasa.fun:2052/4236/4236/5202
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | AMC" tvg-name="CINE Y SERIE | AMC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV | Cine y Serie ",CINE Y SERIE | AMC
+http://tvencasa.fun:2052/4236/4236/173928
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | CINECANAL HD" tvg-name="CINE Y SERIE | CINECANAL HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="TV | Cine y Serie ",CINE Y SERIE | CINECANAL HD
+http://tvencasa.fun:2052/4236/4236/175999
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | CINECANAL" tvg-name="CINE Y SERIE | CINECANAL" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="TV | Cine y Serie ",CINE Y SERIE | CINECANAL
+http://tvencasa.fun:2052/4236/4236/63416
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | CINEMAX HD" tvg-name="CINE Y SERIE | CINEMAX HD " tvg-logo="https://i.ibb.co/DVgKRLm/descarga-2.png" group-title="TV | Cine y Serie ",CINE Y SERIE | CINEMAX HD
+http://tvencasa.fun:2052/4236/4236/174778
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | DE PELICULA PLUS" tvg-name="CINE Y SERIE | DE PELICULA PLUS" tvg-logo="https://i.ibb.co/XVp94mW/descarga-3.png" group-title="TV | Cine y Serie ",CINE Y SERIE | DE PELICULA PLUS
+http://tvencasa.fun:2052/4236/4236/62678
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | PARAMOUT HD" tvg-name="CINE Y SERIE | PARAMOUT HD" tvg-logo="https://i.ibb.co/PCvWbgY/descarga-3.png" group-title="TV | Cine y Serie ",CINE Y SERIE | PARAMOUT HD
+http://tvencasa.fun:2052/4236/4236/62653
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | FX" tvg-name="CINE Y SERIE | FX" tvg-logo="https://i.ibb.co/4R0HJ6h/FX.png" group-title="TV | Cine y Serie ",CINE Y SERIE | FX
+http://tvencasa.fun:2052/4236/4236/62661
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | UNIVERSAL" tvg-name="CINE Y SERIE | UNIVERSAL" tvg-logo="https://i.ibb.co/58ZyytM/56db4b8edf8a9d520e50518eff7b66fc.png" group-title="TV | Cine y Serie ",CINE Y SERIE | UNIVERSAL
+http://tvencasa.fun:2052/4236/4236/62664
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | STUDIO UNIVERSAL HD" tvg-name="CINE Y SERIE | STUDIO UNIVERSAL HD " tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | STUDIO UNIVERSAL HD
+http://tvencasa.fun:2052/4236/4236/173900
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | SONY FHD" tvg-name="CINE Y SERIE | SONY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV | Cine y Serie ",CINE Y SERIE | SONY FHD
+http://tvencasa.fun:2052/4236/4236/173981
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | SONY" tvg-name="CINE Y SERIE | SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV | Cine y Serie ",CINE Y SERIE | SONY
+http://tvencasa.fun:2052/4236/4236/62665
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | SPACE HD" tvg-name="CINE Y SERIE | SPACE HD " tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | SPACE HD
+http://tvencasa.fun:2052/4236/4236/169963
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | SPACE" tvg-name="CINE Y SERIE | SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | SPACE
+http://tvencasa.fun:2052/4236/4236/63431
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | TNT HD" tvg-name="CINE Y SERIE | TNT HD" tvg-logo="https://i.ibb.co/LZKLVcP/images-2.png" group-title="TV | Cine y Serie ",CINE Y SERIE | TNT HD
+http://tvencasa.fun:2052/4236/4236/63432
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | TNT SERIES HD" tvg-name="CINE Y SERIE | TNT SERIES HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt-series_m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | TNT SERIES HD
+http://tvencasa.fun:2052/4236/4236/246163
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | WARNER CHANNEL HD" tvg-name="CINE Y SERIE | WARNER CHANNEL HD" tvg-logo="https://i.ibb.co/ys937jp/5987c5e2-c512-4b15-9225-006e0d6d7737-m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | WARNER CHANNEL HD
+http://tvencasa.fun:2052/4236/4236/63434
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | SYFY" tvg-name="CINE Y SERIE | SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="TV | Cine y Serie ",CINE Y SERIE | SYFY
+http://tvencasa.fun:2052/4236/4236/62656
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | TBS" tvg-name="CINE Y SERIE | TBS" tvg-logo="https://i.ibb.co/v3b77HG/images-1.png" group-title="TV | Cine y Serie ",CINE Y SERIE | TBS
+http://tvencasa.fun:2052/4236/4236/62657
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | TCM" tvg-name="CINE Y SERIE | TCM" tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="TV | Cine y Serie ",CINE Y SERIE | TCM
+http://tvencasa.fun:2052/4236/4236/62652
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | A3 SERIES HD" tvg-name="CINE Y SERIE | A3 SERIES HD" tvg-logo="https://i.ibb.co/qYCBgnX/default.png" group-title="TV | Cine y Serie ",CINE Y SERIE | A3 SERIES HD
+http://tvencasa.fun:2052/4236/4236/239366
+
+#EXTINF:-1 tvg-id="CINE Y SERIE | MULTIPREMIER" tvg-name="CINE Y SERIE | MULTIPREMIER" tvg-logo="https://i.ibb.co/KhHNdzS/a4fcb1bf-cfa6-47b0-941a-7e09f802139e-m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | MULTIPREMIER
+http://tvencasa.fun:2052/4236/4236/240112
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIE | FILM & ARTS HD " tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="TV | Cine y Serie ",CINE Y SERIE | FILM & ARTS HD
+http://tvencasa.fun:2052/4236/4236/246602
+
+#EXTINF:-1 tvg-id="ELIMINATORIA | CARACOL" tvg-name="CARACOL | CARACOL" tvg-logo="https://i.ibb.co/QFSG9wQ/logo-caracol-television-1.png" group-title="TV | Eliminatoria Sudamericana ",CARACOL | CARACOL
+http://tvencasa.fun:2052/4236/4236/246181
+
+#EXTINF:-1 tvg-id="COLOMBIA | CARACOL INTERNACIONAL" tvg-name="COLOMBIA | CARACOL INTERNACIONAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Caracol_Internacional_2017.png" group-title="TV | Colombia",COLOMBIA | CARACOL INTERNACIONAL
+http://tvencasa.fun:2052/4236/4236/9722
+
+#EXTINF:-1 tvg-id="COLOMBIA | RCN" tvg-name="COLOMBIA | RCN " tvg-logo="https://media.metrolatam.com/2017/12/27/capturadepantalla20171227alas122619-727a5a8d2630b0f89e4d79e43ec60d42-600x400.jpg" group-title="TV | Colombia",COLOMBIA | RCN
+http://tvencasa.fun:2052/4236/4236/174779
+
+#EXTINF:-1 tvg-id="COLOMBIA | RCN HD" tvg-name="COLOMBIA | RCN HD" tvg-logo="https://dl.dropboxusercontent.com/s/iggphtzqn2b11ow/RCN.jpg?dl=0" group-title="TV | Colombia",COLOMBIA | RCN HD
+http://tvencasa.fun:2052/4236/4236/132865
+
+#EXTINF:-1 tvg-id="COLOMBIA |  TELECAFE" tvg-name="COLOMBIA |  TELECAFE " tvg-logo="https://dl.dropboxusercontent.com/s/af99oc4vpc7awxb/TELECARIBEDEPORTES.gif?dl=0" group-title="TV | Colombia",COLOMBIA |  TELECAFE
+http://tvencasa.fun:2052/4236/4236/132869
+
+#EXTINF:-1 tvg-id="COLOMBIA | WIN SPORTS" tvg-name="COLOMBIA | WIN SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/u8me3amghaladd2/WINSPORTS.jpg?dl=0" group-title="TV | Colombia",COLOMBIA | WIN SPORTS
+http://tvencasa.fun:2052/4236/4236/132887
+
+#EXTINF:-1 tvg-id="COLOMBIA | CITY TV" tvg-name="COLOMBIA | CITY TV " tvg-logo="https://dl.dropboxusercontent.com/s/mfjpwxwm9e8bvdc/CITYTV.jpg?dl=0" group-title="TV | Colombia",COLOMBIA | CITY TV
+http://tvencasa.fun:2052/4236/4236/132711
+
+#EXTINF:-1 tvg-id="COLOMBIA | TELEPACIFICO" tvg-name="COLOMBIA | TELEPACIFICO " tvg-logo="https://static.epg.best/co/WinSports.co.png" group-title="TV | Colombia",COLOMBIA | TELEPACIFICO
+http://tvencasa.fun:2052/4236/4236/132873
+
+#EXTINF:-1 tvg-id="COLOMBIA | TELECARIBE" tvg-name="COLOMBIA | TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="TV | Colombia",COLOMBIA | TELECARIBE
+http://tvencasa.fun:2052/4236/4236/133341
+
+#EXTINF:-1 tvg-id="COLOMBIA | SEÑAL COLOMBIA" tvg-name="COLOMBIA | SEÑAL COLOMBIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV | Colombia",COLOMBIA | SEÑAL COLOMBIA
+http://tvencasa.fun:2052/4236/4236/132846
+
+#EXTINF:-1 tvg-id="COLOMBIA | TELE ANTIOQUIA" tvg-name="COLOMBIA | TELE ANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="TV | Colombia",COLOMBIA | TELE ANTIOQUIA
+http://tvencasa.fun:2052/4236/4236/159335
+
+#EXTINF:-1 tvg-id="COLOMBIA | NTN24" tvg-name="COLOMBIA | NTN24" tvg-logo="https://i.ibb.co/8zHxdrP/descarga-2-1.png" group-title="TV | Colombia",COLOMBIA | NTN24
+http://tvencasa.fun:2052/4236/4236/237866
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL" tvg-logo="https://imagenpng.com/wp-content/uploads/2015/03/8C7.png" group-title="TV | 24/7",24/7 | DRAGON BALL
+http://tvencasa.fun:2052/4236/4236/264641
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="TV | 24/7",24/7 | DRAGON BALL SUPER
+http://tvencasa.fun:2052/4236/4236/264643
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL OCHO" tvg-logo="https://i.pinimg.com/originals/74/22/6a/74226a3bddafca4f0ac4ac02e1057b53.png" group-title="TV | 24/7",24/7 | EL CHAVO DEL OCHO
+http://tvencasa.fun:2052/4236/4236/264647
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRAS" tvg-logo="https://w7.pngwing.com/pngs/75/194/png-transparent-the-flintstones.png" group-title="TV | 24/7",24/7 | LOS PICAPIEDRAS
+http://tvencasa.fun:2052/4236/4236/264652
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS" tvg-logo="https://i.pinimg.com/originals/b1/6b/84/b16b8448d63014810c2aefbc93b11e52.png" group-title="TV | 24/7",24/7 | LOS SIMPSONS
+http://tvencasa.fun:2052/4236/4236/264653
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS 3 HD " tvg-logo="https://i.ibb.co/PF8vXPF/twitter-summary-card-20210114.png" group-title="TV | Chile",CHILE | TNT SPORTS 3 HD
+http://tvencasa.fun:2052/4236/4236/174794
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS 3" tvg-logo="https://i.ibb.co/Lz00d1T/descarga.png" group-title="TV | Chile",CHILE | TNT SPORTS 3
+http://tvencasa.fun:2052/4236/4236/132673
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO BASICO" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="TV | Chile",CHILE | CDO BASICO
+http://tvencasa.fun:2052/4236/4236/132675
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Chilevisi%C3%B3n_-_2015_logo.png" group-title="TV | Chile",CHILE | CHILEVISION HD
+http://tvencasa.fun:2052/4236/4236/174792
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png" group-title="TV | Chile",CHILE | MEGA HD
+http://tvencasa.fun:2052/4236/4236/132680
+
+#EXTINF:-1 tvg-id="" tvg-name="Chile | El 13 " tvg-logo="https://static.13.cl/7/sites/all/themes/portal/images/default.jpg" group-title="TV | Chile",Chile | El 13
+http://tvencasa.fun:2052/4236/4236/133238
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV CHILE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="TV | Chile",CHILE | TV CHILE
+http://tvencasa.fun:2052/4236/4236/173918
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CNN CHILE HD " tvg-logo="https://pbs.twimg.com/profile_images/1204056212163178503/7pHRfcRi.jpg" group-title="TV | Chile",CHILE | CNN CHILE HD
+http://tvencasa.fun:2052/4236/4236/174903
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="CINE", SPTV Digital

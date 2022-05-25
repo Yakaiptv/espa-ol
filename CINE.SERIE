@@ -1,5 +1,328 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Cine1" tvg-="" group-title="Canales 3",Cine1
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6705
+#EXTINF:-1 tvg-id="" tvg-name="Cine2" tvg-logo="" group-title="Canales 3",Cine2
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6706
+#EXTINF:-1 tvg-id="" tvg-name="Cine 3" tvg-logo="" group-title="Canales 3",Cine 3
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6707
+#EXTINF:-1 tvg-id="" tvg-name="Cine 4 HD" tvg-logo="" group-title="Canales 3",Cine 4 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6708
+#EXTINF:-1 tvg-id="" tvg-name="Cine 5 HD" tvg-logo="" group-title="Canales 3",Cine 5 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6709
+#EXTINF:-1 tvg-id="" tvg-name="Cine 5 HD" tvg-logo="" group-title="Canales 3",Cine 5 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6710
+#EXTINF:-1 tvg-id="" tvg-name="Cine 6 HD" tvg-logo="" group-title="Canales 3",Cine 6 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6711
+#EXTINF:-1 tvg-id="" tvg-name="Cine 7 HD" tvg-logo="" group-title="Canales 3",Cine 7 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6712
+#EXTINF:-1 tvg-id="" tvg-name="Cine 8 HD" tvg-logo="" group-title="Canales 3",Cine 8 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6713
+#EXTINF:-1 tvg-id="" tvg-name="Cine 9 HD" tvg-logo="" group-title="Canales 3",Cine 9 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6714
+#EXTINF:-1 tvg-id="" tvg-name="Cine 10 HD" tvg-logo="" group-title="Canales 3",Cine 10 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6715
+#EXTINF:-1 tvg-id="" tvg-name="Cine 11 HD" tvg-logo="" group-title="Canales 3",Cine 11 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6716
+#EXTINF:-1 tvg-id="" tvg-name="Cine 12 HD" tvg-logo="" group-title="Canales 3",Cine 12 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6717
+#EXTINF:-1 tvg-id="" tvg-name="Cine 13 HD" tvg-logo="" group-title="Canales 3",Cine 13 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6718
+#EXTINF:-1 tvg-id="" tvg-name="Cine 14 HD" tvg-logo="" group-title="Canales 3",Cine 14 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6719
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Full HD" tvg-logo="" group-title="Canales 3",Latino | Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6720
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Full HD" tvg-logo="" group-title="Canales 3",Latino | Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6721
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO West Full HD" tvg-logo="" group-title="Canales 3",Latino | HBO West Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6722
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO Plus Full HD" tvg-logo="" group-title="Canales 3",Latino | HBO Plus Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6723
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz West Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz West Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6724
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore HD-" tvg-logo="" group-title="Canales 3",Latino | Starz Encore HD-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6725
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Comedy HD-" tvg-logo="" group-title="Canales 3",Latino | Starz Comedy HD-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6726
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Showtime West HD-" tvg-logo="" group-title="Canales 3",Latino | Showtime West HD-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6727
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Showtime Full HD" tvg-logo="" group-title="Canales 3",Latino | Showtime Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6728
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Showtime East Full HD" tvg-logo="" group-title="Canales 3",Latino | Showtime East Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6729
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Showtime Beyond Full HD" tvg-logo="" group-title="Canales 3",Latino | Showtime Beyond Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6730
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Cinemax HD- 1080P" tvg-logo="" group-title="Canales 3",Latino | Cinemax HD- 1080P
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6731
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6732
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Edge Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Edge Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6733
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Comedy Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Comedy Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6734
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Cinema Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Cinema Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6735
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Kids & Family Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Kids & Family Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6736
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore HD 1080P-" tvg-logo="" group-title="Canales 3",Latino | Starz Encore HD 1080P-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6737
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Action Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Action Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6738
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Classic Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Classic Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6739
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Black Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Black Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6740
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Family Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Family Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6741
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Suspense HD 1080P-" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Suspense HD 1080P-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6742
+#EXTINF:-1 tvg-id="" tvg-name="Latino | MoviePlex HD 1080P-" tvg-logo="" group-title="Canales 3",Latino | MoviePlex HD 1080P-
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6743
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore Western Full HD" tvg-logo="" group-title="Canales 3",Latino | Starz Encore Western Full HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6744
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Canales 3",Claro Sports
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6745
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Canales 3",Claro Sports
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6746
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Canales 3",Claro Sports
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6747
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Canales 3",Claro Sports
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6748
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema HD" tvg-logo="" group-title="Canales 3",Fox Cinema HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6749
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy HD" tvg-logo="" group-title="Canales 3",Fox Comedy HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6750
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD" tvg-logo="" group-title="Canales 3",Fox Movies HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6751
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="" group-title="Canales 3",Fox Life HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6752
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="" group-title="Canales 3",TNT Sports HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6753
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series HD Op2" tvg-logo="" group-title="Canales 3",Fox Series HD Op2
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6754
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family HD" tvg-logo="" group-title="Canales 3",Fox Family HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6755
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics HD" tvg-logo="" group-title="Canales 3",Fox Classics HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6756
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics HD" tvg-logo="" group-title="Canales 3",Fox Classics HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6757
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD Op2" tvg-logo="" group-title="Canales 3",Fox Action HD Op2
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6758
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat HD" tvg-logo="" group-title="Canales 3",I-Sat HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6759
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="Canales 3",H2 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6760
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="Canales 3",History HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6761
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Canales 3",Discovery Channel HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6762
+#EXTINF:-1 tvg-id="" tvg-name="CineAR HD" tvg-logo="" group-title="Canales 3",CineAR HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6763
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="Canales 3",Warner HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6764
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="Canales 3",TBS HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6765
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="" group-title="Canales 3",Sony HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6766
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="Canales 3",Paramount Channel HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6767
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Canales 3",Space HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6768
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="Canales 3",FXM HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6769
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Canales 3",FX HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6770
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="" group-title="Canales 3",Syfy HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6771
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Canales 3",AMC HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6772
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Canales 3",AXN HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6773
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="Canales 3",TNT Series HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6774
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="Canales 3",Cinecanal HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6775
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Canales 3",A&E HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6776
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst HD" tvg-logo="" group-title="Canales 3",BabyFirst HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6777
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="Canales 3",Boomerang HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6778
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Canales 3",Tooncast HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6779
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior HD" tvg-logo="" group-title="Canales 3",Nick Junior HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6780
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Canales 3",Nickelodeon HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6781
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="" group-title="Canales 3",Disney Junior HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6782
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="" group-title="Canales 3",Disney XD HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6783
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="Canales 3",Disney Channel HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6784
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Canales 3",Cartoon Network HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6785
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="" group-title="Canales 3",TruTV HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6786
+#EXTINF:-1 tvg-id="" tvg-name="MasChiC HD" tvg-logo="" group-title="Canales 3",MasChiC HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6787
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="Canales 3",Lifetime HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6788
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD - Argentina" tvg-logo="" group-title="Canales 3",Telefe HD - Argentina
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6789
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional HD" tvg-logo="" group-title="Canales 3",Telemundo Internacional HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6790
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="" group-title="Canales 3",E! Entertainment
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6791
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="Canales 3",ESPN 2
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6792
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title="Canales 3",TNT SPORTS
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6793
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Canales 3",TLC
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6794
+#EXTINF:-1 tvg-id="" tvg-name="TELE" tvg-logo="" group-title="Canales 3",TELE
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6795
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="Pluto TV",Cine Estelar
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6588
+#EXTINF:-1 tvg-id="" tvg-name="Cine Accion" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="Pluto TV",Cine Accion
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6589
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas en Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="Pluto TV",Estrellas en Acción
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6590
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="Pluto TV",Cine Comedia
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6591
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="Pluto TV",Cine Drama
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6592
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="Pluto TV",Cine Romance
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6593
+#EXTINF:-1 tvg-id="" tvg-name="Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="Pluto TV",Cine Suspenso
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6594
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="Pluto TV",Cine Terror
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6595
+#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="Pluto TV",Cine
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6596
+#EXTINF:-1 tvg-id="" tvg-name="Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="Pluto TV",Cine Familia
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6597
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="Pluto TV",Series
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6598
+#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="Pluto TV",Series Retro
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6599
+#EXTINF:-1 tvg-id="" tvg-name="Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="Pluto TV",Series Latinas
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6600
+#EXTINF:-1 tvg-id="" tvg-name="Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="Pluto TV",Novelas
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6601
+#EXTINF:-1 tvg-id="" tvg-name="Telefe clasico" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="Pluto TV",Telefe clasico
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6602
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Classic" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="Pluto TV",Mtv Classic
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6603
+#EXTINF:-1 tvg-id="" tvg-name="MTV Pranks" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg" group-title="Pluto TV",MTV Pranks
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6604
+#EXTINF:-1 tvg-id="" tvg-name="MTV Animaciones" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg" group-title="Pluto TV",MTV Animaciones
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6605
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/featuredImage.jpg" group-title="Pluto TV",People are Awesome
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6606
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="Pluto TV",Teen
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6607
+#EXTINF:-1 tvg-id="" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="Pluto TV",Degrassi
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6608
+#EXTINF:-1 tvg-id="" tvg-name="Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="Pluto TV",Anime
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6609
+#EXTINF:-1 tvg-id="" tvg-name="Anime Accion" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="Pluto TV",Anime Accion
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6610
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg" group-title="Pluto TV",Naruto
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6611
+#EXTINF:-1 tvg-id="" tvg-name="SCIFI" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/featuredImage.jpg" group-title="Pluto TV",SCIFI
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6612
+#EXTINF:-1 tvg-id="" tvg-name="Competencias" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="Pluto TV",Competencias
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6613
+#EXTINF:-1 tvg-id="" tvg-name="Noticias" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/featuredImage.jpg" group-title="Pluto TV",Noticias
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6614
+#EXTINF:-1 tvg-id="" tvg-name="Reality" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="Pluto TV",Reality
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6615
+#EXTINF:-1 tvg-id="" tvg-name="Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="Pluto TV",Investiga
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6616
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg" group-title="Pluto TV",Historias de Ultratumba
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6617
+#EXTINF:-1 tvg-id="" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/featuredImage.jpg" group-title="Pluto TV",Misterios Medicos
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6618
+#EXTINF:-1 tvg-id="" tvg-name="Vida Real" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/featuredImage.jpg" group-title="Pluto TV",Vida Real
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6619
+#EXTINF:-1 tvg-id="" tvg-name="Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="Pluto TV",Naturaleza
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6620
+#EXTINF:-1 tvg-id="" tvg-name="Animales" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="Pluto TV",Animales
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6621
+#EXTINF:-1 tvg-id="" tvg-name="Oh My Pet" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/featuredImage.jpg" group-title="Pluto TV",Oh My Pet
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6622
+#EXTINF:-1 tvg-id="" tvg-name="Velocidad" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="Pluto TV",Velocidad
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6623
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/featuredImage.jpg" group-title="Pluto TV",Historia
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6624
+#EXTINF:-1 tvg-id="" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="Pluto TV",Los archivos del FBI
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6625
+#EXTINF:-1 tvg-id="" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg" group-title="Pluto TV",Archivos Forenses
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6626
+#EXTINF:-1 tvg-id="" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="Pluto TV",The New Detectives
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6627
+#EXTINF:-1 tvg-id="" tvg-name="Misterios Sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg" group-title="Pluto TV",Misterios Sin Resolver
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6628
+#EXTINF:-1 tvg-id="" tvg-name="Minuto para Ganar" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="Pluto TV",Minuto para Ganar
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6629
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="Pluto TV",MasterChef
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6630
+#EXTINF:-1 tvg-id="" tvg-name="Latin Angels" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/featuredImage.jpg" group-title="Pluto TV",Latin Angels
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6631
+#EXTINF:-1 tvg-id="" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="Pluto TV",Deportes
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6632
+#EXTINF:-1 tvg-id="" tvg-name="Futbol para Fans" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="Pluto TV",Futbol para Fans
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6633
+#EXTINF:-1 tvg-id="" tvg-name="Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Pluto TV",Peleas
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6634
+#EXTINF:-1 tvg-id="" tvg-name="All Elite Wrestling" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/featuredImage.jpg" group-title="Pluto TV",All Elite Wrestling
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6635
+#EXTINF:-1 tvg-id="" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/featuredImage.jpg" group-title="Pluto TV",FailArmy
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6636
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/featuredImage.jpg" group-title="Pluto TV",The Pet Collective
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6637
+#EXTINF:-1 tvg-id="" tvg-name="Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/featuredImage.jpg" group-title="Pluto TV",Humor
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6638
+#EXTINF:-1 tvg-id="" tvg-name="Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="Pluto TV",Viajes
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6639
+#EXTINF:-1 tvg-id="" tvg-name="Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="Pluto TV",Cocina
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6640
+#EXTINF:-1 tvg-id="" tvg-name="Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="Pluto TV",Hogar
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6641
+#EXTINF:-1 tvg-id="" tvg-name="Fashion Box" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/featuredImage.jpg" group-title="Pluto TV",Fashion Box
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6642
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/featuredImage.jpg" group-title="Pluto TV",Baby First
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6643
+#EXTINF:-1 tvg-id="" tvg-name="Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="Pluto TV",Junior
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6644
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="Pluto TV",Nick Jr Club
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6645
+#EXTINF:-1 tvg-id="" tvg-name="Barney" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/featuredImage.jpg" group-title="Pluto TV",Barney
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6646
+#EXTINF:-1 tvg-id="" tvg-name="BABAR" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="Pluto TV",BABAR
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6647
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/featuredImage.jpg" group-title="Pluto TV",El Reino Infantil
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6648
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="Pluto TV",Rugrats Crecidos
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6649
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="Pluto TV",Kids
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6650
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="Pluto TV",Nick Clasico
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6651
+#EXTINF:-1 tvg-id="" tvg-name="Animales| SD" tvg-logo="" group-title="Pluto TV",Animales| SD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6652
+#EXTINF:-1 tvg-id="" tvg-name="Anime | SD" tvg-logo="" group-title="Pluto TV",Anime | SD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6653
+#EXTINF:-1 tvg-id="" tvg-name="Anime Acción | SD" tvg-logo="" group-title="Pluto TV",Anime Acción | SD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6654
+#EXTINF:-1 tvg-id="" tvg-name="Archivos Forenses | SD" tvg-logo="" group-title="Pluto TV",Archivos Forenses | SD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6655
+#EXTINF:-1 tvg-id="" tvg-name="Babar | SD" tvg-logo="" group-title="Pluto TV",Babar | SD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/6656
+#EXTINF:-1 tvg-id="" tvg-na
+______________
+
 #EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•

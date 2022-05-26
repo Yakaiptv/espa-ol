@@ -1,5 +1,251 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="P | .../A3cine HD" tvg-logo="" group-title="Cine y Series",P | .../A3cine HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11523
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Azteca Cinema" tvg-logo="" group-title="Cine y Series",P | .../Azteca Cinema
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11524
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Azteca Cinema HD" tvg-logo="" group-title="Cine y Series",P | .../Azteca Cinema HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11525
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cine Latino" tvg-logo="" group-title="Cine y Series",P | .../Cine Latino
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11526
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cine Latino HQ" tvg-logo="" group-title="Cine y Series",P | .../Cine Latino HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11527
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cine Sony HD" tvg-logo="" group-title="Cine y Series",P | .../Cine Sony HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11528
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinecanal" tvg-logo="" group-title="Cine y Series",P | .../Cinecanal
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11529
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinecanal FHD" tvg-logo="" group-title="Cine y Series",P | .../Cinecanal FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11530
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinecanal HD" tvg-logo="" group-title="Cine y Series",P | .../Cinecanal HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11531
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinema Dinamita" tvg-logo="" group-title="Cine y Series",P | .../Cinema Dinamita
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11532
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinema Dinamita HD" tvg-logo="" group-title="Cine y Series",P | .../Cinema Dinamita HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11533
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinemax" tvg-logo="" group-title="Cine y Series",P | .../Cinemax
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11534
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinemax FHD" tvg-logo="" group-title="Cine y Series",P | .../Cinemax FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11535
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Cinemax HD" tvg-logo="" group-title="Cine y Series",P | .../Cinemax HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11536
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11537
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula Clásico" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula Clásico
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11538
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula HQ" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11539
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula Plus" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula Plus
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11540
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula Plus FHD" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula Plus FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11541
+#EXTINF:-1 tvg-id="" tvg-name="P | .../De Pelicula Plus HQ" tvg-logo="" group-title="Cine y Series",P | .../De Pelicula Plus HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11542
+#EXTINF:-1 tvg-id="" tvg-name="P | .../DHE" tvg-logo="" group-title="Cine y Series",P | .../DHE
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11543
+#EXTINF:-1 tvg-id="" tvg-name="P | .../DHE FHD" tvg-logo="" group-title="Cine y Series",P | .../DHE FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Film & Arts" tvg-logo="" group-title="Cine y Series",P | .../Film & Arts
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11545
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Fxm" tvg-logo="" group-title="Cine y Series",P | .../Fxm
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11546
+#EXTINF:-1 tvg-id="" tvg-name="P | .../FXM FHD" tvg-logo="" group-title="Cine y Series",P | .../FXM FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11547
+#EXTINF:-1 tvg-id="" tvg-name="P | .../FXM HD" tvg-logo="" group-title="Cine y Series",P | .../FXM HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11548
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Edge" tvg-logo="" group-title="Cine y Series",P | .../Golden Edge
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11549
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Edge HQ" tvg-logo="" group-title="Cine y Series",P | .../Golden Edge HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11550
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Plus" tvg-logo="" group-title="Cine y Series",P | .../Golden Plus
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11551
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Plus FHD" tvg-logo="" group-title="Cine y Series",P | .../Golden Plus FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11552
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Plus HQ" tvg-logo="" group-title="Cine y Series",P | .../Golden Plus HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11553
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Premier" tvg-logo="" group-title="Cine y Series",P | .../Golden Premier
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11554
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Premier FHD" tvg-logo="" group-title="Cine y Series",P | .../Golden Premier FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11555
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden Premier HD" tvg-logo="" group-title="Cine y Series",P | .../Golden Premier HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11556
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden." tvg-logo="" group-title="Cine y Series",P | .../Golden.
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11557
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Golden. HQ" tvg-logo="" group-title="Cine y Series",P | .../Golden. HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11558
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO +" tvg-logo="" group-title="Cine y Series",P | .../HBO +
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11559
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO + FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO + FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11560
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO + HD" tvg-logo="" group-title="Cine y Series",P | .../HBO + HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11561
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO 2" tvg-logo="" group-title="Cine y Series",P | .../HBO 2
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11562
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO 2 FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO 2 FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11563
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO 2 HD" tvg-logo="" group-title="Cine y Series",P | .../HBO 2 HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11564
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Family" tvg-logo="" group-title="Cine y Series",P | .../HBO Family
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11565
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Family FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO Family FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11566
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Family HD" tvg-logo="" group-title="Cine y Series",P | .../HBO Family HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11567
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Mundi" tvg-logo="" group-title="Cine y Series",P | .../HBO Mundi
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11568
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Mundi HQ" tvg-logo="" group-title="Cine y Series",P | .../HBO Mundi HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11569
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO POP" tvg-logo="" group-title="Cine y Series",P | .../HBO POP
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11570
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO POP FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO POP FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11571
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO POP HD" tvg-logo="" group-title="Cine y Series",P | .../HBO POP HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11572
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Signature" tvg-logo="" group-title="Cine y Series",P | .../HBO Signature
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11573
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Signature FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO Signature FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11574
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Signature HD" tvg-logo="" group-title="Cine y Series",P | .../HBO Signature HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11575
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Xtreme" tvg-logo="" group-title="Cine y Series",P | .../HBO Xtreme
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11576
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO Xtreme HD" tvg-logo="" group-title="Cine y Series",P | .../HBO Xtreme HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11577
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO." tvg-logo="" group-title="Cine y Series",P | .../HBO.
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11578
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO. FHD" tvg-logo="" group-title="Cine y Series",P | .../HBO. FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11579
+#EXTINF:-1 tvg-id="" tvg-name="P | .../HBO. HD" tvg-logo="" group-title="Cine y Series",P | .../HBO. HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11580
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Morbido TV" tvg-logo="" group-title="Cine y Series",P | .../Morbido TV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11581
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Morbido TV FHD" tvg-logo="" group-title="Cine y Series",P | .../Morbido TV FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11582
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Morbido TV HQ" tvg-logo="" group-title="Cine y Series",P | .../Morbido TV HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11583
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Multipremier" tvg-logo="" group-title="Cine y Series",P | .../Multipremier
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11584
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Panico" tvg-logo="" group-title="Cine y Series",P | .../Panico
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11585
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Panico HD" tvg-logo="" group-title="Cine y Series",P | .../Panico HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Paramount Channel" tvg-logo="" group-title="Cine y Series",P | .../Paramount Channel
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11587
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Paramount Channel FHD" tvg-logo="" group-title="Cine y Series",P | .../Paramount Channel FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11588
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Paramount Channel HQ" tvg-logo="" group-title="Cine y Series",P | .../Paramount Channel HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11589
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Space |  CO" tvg-logo="" group-title="Cine y Series",P | .../Space |  CO
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11590
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Space |  CO | HD" tvg-logo="" group-title="Cine y Series",P | .../Space |  CO | HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11591
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Space | MX" tvg-logo="" group-title="Cine y Series",P | .../Space | MX
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11592
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Space | MX | FHD" tvg-logo="" group-title="Cine y Series",P | .../Space | MX | FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11593
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Space | MX | HD" tvg-logo="" group-title="Cine y Series",P | .../Space | MX | HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11594
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Starz Encore HD" tvg-logo="" group-title="Cine y Series",P | .../Starz Encore HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11595
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Studio Universal" tvg-logo="" group-title="Cine y Series",P | .../Studio Universal
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11596
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Studio Universal FHD" tvg-logo="" group-title="Cine y Series",P | .../Studio Universal FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11597
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Studio Universal HQ" tvg-logo="" group-title="Cine y Series",P | .../Studio Universal HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11598
+#EXTINF:-1 tvg-id="" tvg-name="P | .../SYFY" tvg-logo="" group-title="Cine y Series",P | .../SYFY
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11599
+#EXTINF:-1 tvg-id="" tvg-name="P | .../SYFY FHD" tvg-logo="" group-title="Cine y Series",P | .../SYFY FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11600
+#EXTINF:-1 tvg-id="" tvg-name="P | .../SYFY HQ" tvg-logo="" group-title="Cine y Series",P | .../SYFY HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11601
+#EXTINF:-1 tvg-id="" tvg-name="P | .../TCM" tvg-logo="" group-title="Cine y Series",P | .../TCM
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11602
+#EXTINF:-1 tvg-id="" tvg-name="P | .../TCM HQ" tvg-logo="" group-title="Cine y Series",P | .../TCM HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11603
+#EXTINF:-1 tvg-id="" tvg-name="P | .../TNT" tvg-logo="" group-title="Cine y Series",P | .../TNT
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11604
+#EXTINF:-1 tvg-id="" tvg-name="P | .../TNT FHD" tvg-logo="" group-title="Cine y Series",P | .../TNT FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11605
+#EXTINF:-1 tvg-id="" tvg-name="P | .../TNT HD" tvg-logo="" group-title="Cine y Series",P | .../TNT HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11606
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Universal TV FHD" tvg-logo="" group-title="Cine y Series",P | .../Universal TV FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11607
+#EXTINF:-1 tvg-id="" tvg-name="P | .../Universal TV HQ" tvg-logo="" group-title="Cine y Series",P | .../Universal TV HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11608
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../America TV" tvg-logo="" group-title="Cine y Series",PE| .../America TV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11609
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../America TV FHD" tvg-logo="" group-title="Cine y Series",PE| .../America TV FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11610
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../America TV HD" tvg-logo="" group-title="Cine y Series",PE| .../America TV HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11611
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../ATV" tvg-logo="" group-title="Cine y Series",PE| .../ATV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11612
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../ATV HD" tvg-logo="" group-title="Cine y Series",PE| .../ATV HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11613
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../ATV+" tvg-logo="" group-title="Cine y Series",PE| .../ATV+
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11614
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Best Cable Music" tvg-logo="" group-title="Cine y Series",PE| .../Best Cable Music
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11615
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Best Cable Sport" tvg-logo="" group-title="Cine y Series",PE| .../Best Cable Sport
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11616
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Best Cable TV Canal 3" tvg-logo="" group-title="Cine y Series",PE| .../Best Cable TV Canal 3
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11617
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Canal Ipe" tvg-logo="" group-title="Cine y Series",PE| .../Canal Ipe
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11618
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Canal N" tvg-logo="" group-title="Cine y Series",PE| .../Canal N
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11619
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Canal N HD" tvg-logo="" group-title="Cine y Series",PE| .../Canal N HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11620
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Capital TV" tvg-logo="" group-title="Cine y Series",PE| .../Capital TV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11621
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Directv Sports Peru HD" tvg-logo="" group-title="Cine y Series",PE| .../Directv Sports Peru HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11622
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Exitosa" tvg-logo="" group-title="Cine y Series",PE| .../Exitosa
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Fox Sports Peru HD" tvg-logo="" group-title="Cine y Series",PE| .../Fox Sports Peru HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11624
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Gol Peru" tvg-logo="" group-title="Cine y Series",PE| .../Gol Peru
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11625
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Gol Peru HD" tvg-logo="" group-title="Cine y Series",PE| .../Gol Peru HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11626
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Latina" tvg-logo="" group-title="Cine y Series",PE| .../Latina
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11627
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Latina HD" tvg-logo="" group-title="Cine y Series",PE| .../Latina HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11628
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Monterrico TV" tvg-logo="" group-title="Cine y Series",PE| .../Monterrico TV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11629
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Movistar Deportes" tvg-logo="" group-title="Cine y Series",PE| .../Movistar Deportes
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11630
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Movistar Deportes HQ" tvg-logo="" group-title="Cine y Series",PE| .../Movistar Deportes HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11631
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Movistar Plus" tvg-logo="" group-title="Cine y Series",PE| .../Movistar Plus
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11632
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Panamericana" tvg-logo="" group-title="Cine y Series",PE| .../Panamericana
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11633
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Panamericana HQ" tvg-logo="" group-title="Cine y Series",PE| .../Panamericana HQ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11634
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Peru Magico" tvg-logo="" group-title="Cine y Series",PE| .../Peru Magico
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11635
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Peru Magico FHD" tvg-logo="" group-title="Cine y Series",PE| .../Peru Magico FHD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11636
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Peru Noticias" tvg-logo="" group-title="Cine y Series",PE| .../Peru Noticias
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11637
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../RPP" tvg-logo="" group-title="Cine y Series",PE| .../RPP
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11638
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Sur Peru" tvg-logo="" group-title="Cine y Series",PE| .../Sur Peru
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11639
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Tv Peru" tvg-logo="" group-title="Cine y Series",PE| .../Tv Peru
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11640
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Tv Peru HD" tvg-logo="" group-title="Cine y Series",PE| .../Tv Peru HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11641
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Willax" tvg-logo="" group-title="Cine y Series",PE| .../Willax
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11642
+#EXTINF:-1 tvg-id="" tvg-name="PE| .../Willax HD" tvg-logo="" group-title="Cine y Series",PE| .../Willax HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11643
+#EXTINF:-1 tvg-id="" tvg-name="......Telemundo HD" tvg-logo="" group-title="Cine y Series",......Telemundo HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11832
+__________ 
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine1" tvg-="" group-title="Canales 3",Cine1
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/6705
 #EXTINF:-1 tvg-id="" tvg-name="Cine2" tvg-logo="" group-title="Canales 3",Cine2

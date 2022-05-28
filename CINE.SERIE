@@ -1,5 +1,779 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="https://i.imgur.com/wKkSuLQ.png" group-title="CULTURA",ANIMAL PLANET FULL HD
+http://mastertv.pro:8080/isabel/2022/6105
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="https://i.imgur.com/wKkSuLQ.png" group-title="CULTURA",ANIMAL PLANET FULL HD
+http://mastertv.pro:8080/isabel/2022/6106
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/wKkSuLQ.png" group-title="CULTURA",ANIMAL PLANET HD
+http://mastertv.pro:8080/isabel/2022/6107
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="https://i.imgur.com/0lqaYBA.png" group-title="CULTURA",DISCOVERY CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6108
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="https://i.imgur.com/0lqaYBA.png" group-title="CULTURA",DISCOVERY CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6109
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL  SD" tvg-logo="https://i.imgur.com/0lqaYBA.png" group-title="CULTURA",DISCOVERY CHANNEL  SD
+http://mastertv.pro:8080/isabel/2022/6110
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH FULL HD" tvg-logo="https://i.imgur.com/0qINvWV.png" group-title="CULTURA",DISCOVERY HOME & HEALTH FULL HD
+http://mastertv.pro:8080/isabel/2022/6113
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH FULL HD" tvg-logo="https://i.imgur.com/0qINvWV.png" group-title="CULTURA",DISCOVERY HOME & HEALTH FULL HD
+http://mastertv.pro:8080/isabel/2022/6114
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/gDp3hT4.png" group-title="CULTURA",DISCOVERY SCIENCE SD
+http://mastertv.pro:8080/isabel/2022/6115
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/gDp3hT4.png" group-title="CULTURA",DISCOVERY SCIENCE HD
+http://mastertv.pro:8080/isabel/2022/6117
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FULL HD" tvg-logo="https://i.imgur.com/TKusr6T.png" group-title="CULTURA",DISCOVERY THEATER FULL HD
+http://mastertv.pro:8080/isabel/2022/6118
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FULL HD" tvg-logo="https://i.imgur.com/TKusr6T.png" group-title="CULTURA",DISCOVERY THEATER FULL HD
+http://mastertv.pro:8080/isabel/2022/6119
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FULL HD" tvg-logo="https://i.imgur.com/TKusr6T.png" group-title="CULTURA",DISCOVERY THEATER FULL HD
+http://mastertv.pro:8080/isabel/2022/6120
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="https://i.imgur.com/O2tVYoN.png" group-title="CULTURA",DISCOVERY TLC HD
+http://mastertv.pro:8080/isabel/2022/6121
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="https://i.imgur.com/O2tVYoN.png" group-title="CULTURA",DISCOVERY TLC HD
+http://mastertv.pro:8080/isabel/2022/6122
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC SD" tvg-logo="https://i.imgur.com/O2tVYoN.png" group-title="CULTURA",DISCOVERY TLC SD
+http://mastertv.pro:8080/isabel/2022/6123
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.imgur.com/gopUYCl.png" group-title="CULTURA",DISCOVERY ID HD
+http://mastertv.pro:8080/isabel/2022/6124
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.imgur.com/gopUYCl.png" group-title="CULTURA",DISCOVERY ID HD
+http://mastertv.pro:8080/isabel/2022/6125
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.imgur.com/gopUYCl.png" group-title="CULTURA",DISCOVERY ID HD
+http://mastertv.pro:8080/isabel/2022/6126
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/9kYjhkw.png" group-title="CULTURA",DISCOVERY TURBO SD
+http://mastertv.pro:8080/isabel/2022/6127
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="https://i.imgur.com/9kYjhkw.png" group-title="CULTURA",DISCOVERY TURBO FULL HD
+http://mastertv.pro:8080/isabel/2022/6128
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/9kYjhkw.png" group-title="CULTURA",DISCOVERY TURBO HD
+http://mastertv.pro:8080/isabel/2022/6129
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="https://i.imgur.com/TtjFXht.png" group-title="CULTURA",DISCOVERY WORLD FULL HD
+http://mastertv.pro:8080/isabel/2022/6130
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="https://i.imgur.com/TtjFXht.png" group-title="CULTURA",DISCOVERY WORLD FULL HD
+http://mastertv.pro:8080/isabel/2022/6131
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/TtjFXht.png" group-title="CULTURA",DISCOVERY WORLD HD
+http://mastertv.pro:8080/isabel/2022/6132
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/cEGTrww.png" group-title="CULTURA",FOOD NETWORK HD
+http://mastertv.pro:8080/isabel/2022/6133
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FULL HD" tvg-logo="https://i.imgur.com/cEGTrww.png" group-title="CULTURA",FOOD NETWORK FULL HD
+http://mastertv.pro:8080/isabel/2022/6134
+#EXTINF:-1 tvg-id="" tvg-name="HGTV  HD" tvg-logo="https://i.imgur.com/KMpjavs.png" group-title="CULTURA",HGTV  HD
+http://mastertv.pro:8080/isabel/2022/6135
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/KMpjavs.png" group-title="CULTURA",HGTV HD
+http://mastertv.pro:8080/isabel/2022/6136
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FULL HD" tvg-logo="https://i.imgur.com/WeLL4o6.png" group-title="CULTURA",HISTORY 2 FULL HD
+http://mastertv.pro:8080/isabel/2022/6138
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 HD" tvg-logo="https://i.imgur.com/WeLL4o6.png" group-title="CULTURA",HISTORY 2 HD
+http://mastertv.pro:8080/isabel/2022/6139
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 HD" tvg-logo="https://i.imgur.com/WeLL4o6.png" group-title="CULTURA",HISTORY 2 HD
+http://mastertv.pro:8080/isabel/2022/6140
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FULL HD" tvg-logo="https://i.imgur.com/Yv2UIz8.png" group-title="CULTURA",HISTORY FULL HD
+http://mastertv.pro:8080/isabel/2022/6141
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FULL HD" tvg-logo="https://i.imgur.com/Yv2UIz8.png" group-title="CULTURA",HISTORY FULL HD
+http://mastertv.pro:8080/isabel/2022/6142
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/2qCFonz.png" group-title="CULTURA",HOLA TV HD
+http://mastertv.pro:8080/isabel/2022/6143
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/PSZuAhq.png" group-title="CULTURA",LIFETIME HD
+http://mastertv.pro:8080/isabel/2022/6144
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/PSZuAhq.png" group-title="CULTURA",LIFETIME HD
+http://mastertv.pro:8080/isabel/2022/6145
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/BmYV7am.png" group-title="CULTURA",NATGEO SD
+http://mastertv.pro:8080/isabel/2022/6146
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FULL HD" tvg-logo="https://i.imgur.com/BmYV7am.png" group-title="CULTURA",NATGEO FULL HD
+http://mastertv.pro:8080/isabel/2022/6147
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FULL HD" tvg-logo="https://i.imgur.com/BmYV7am.png" group-title="CULTURA",NATGEO FULL HD
+http://mastertv.pro:8080/isabel/2022/6148
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD" tvg-logo="https://i.imgur.com/vEMTMy8.png" group-title="CULTURA",NATGEO WILD SD
+http://mastertv.pro:8080/isabel/2022/6149
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FULL HD" tvg-logo="https://i.imgur.com/vEMTMy8.png" group-title="CULTURA",NATGEO WILD FULL HD
+http://mastertv.pro:8080/isabel/2022/6150
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FULL HD" tvg-logo="https://i.imgur.com/vEMTMy8.png" group-title="CULTURA",NATGEO WILD FULL HD
+http://mastertv.pro:8080/isabel/2022/6151
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://logos.xbots.com.mx/41093.png" group-title="INFANTIL",BABY TV
+http://mastertv.pro:8080/isabel/2022/6152
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://logos.xbots.com.mx/41093.png" group-title="INFANTIL",BABY TV HD
+http://mastertv.pro:8080/isabel/2022/6153
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV LQ" tvg-logo="https://logos.xbots.com.mx/41093.png" group-title="INFANTIL",BABY TV LQ
+http://mastertv.pro:8080/isabel/2022/6154
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://logos.xbots.com.mx/41089.png" group-title="INFANTIL",BABY FIRST
+http://mastertv.pro:8080/isabel/2022/6155
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://logos.xbots.com.mx/Boomerang.png" group-title="INFANTIL",BOOMERANG
+http://mastertv.pro:8080/isabel/2022/6160
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://logos.xbots.com.mx/8.png" group-title="INFANTIL",BOOMERANG
+http://mastertv.pro:8080/isabel/2022/6161
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://logos.xbots.com.mx/8.png" group-title="INFANTIL",BOOMERANG HD
+http://mastertv.pro:8080/isabel/2022/6162
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LQ" tvg-logo="https://logos.xbots.com.mx/Boomerang.png" group-title="INFANTIL",BOOMERANG LQ
+http://mastertv.pro:8080/isabel/2022/6163
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://logos.xbots.com.mx/112.png" group-title="INFANTIL",CARTOON NETWORK
+http://mastertv.pro:8080/isabel/2022/6164
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logos.xbots.com.mx/112.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://mastertv.pro:8080/isabel/2022/6165
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LQ" tvg-logo="https://logos.xbots.com.mx/112.png" group-title="INFANTIL",CARTOON NETWORK LQ
+http://mastertv.pro:8080/isabel/2022/6166
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="INFANTIL",DISCOVERY KIDS
+http://mastertv.pro:8080/isabel/2022/6167
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://mastertv.pro:8080/isabel/2022/6168
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS LQ" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="INFANTIL",DISCOVERY KIDS LQ
+http://mastertv.pro:8080/isabel/2022/6169
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANNEL
+http://mastertv.pro:8080/isabel/2022/6170
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://logos.xbots.com.mx/DisneyChannel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://mastertv.pro:8080/isabel/2022/6171
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://mastertv.pro:8080/isabel/2022/6172
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://logos.xbots.com.mx/118.png" group-title="INFANTIL",DISNEY JUNIOR
+http://mastertv.pro:8080/isabel/2022/6173
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://logos.xbots.com.mx/118.png" group-title="INFANTIL",DISNEY JUNIOR HD
+http://mastertv.pro:8080/isabel/2022/6174
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LQ" tvg-logo="https://logos.xbots.com.mx/118.png" group-title="INFANTIL",DISNEY JUNIOR LQ
+http://mastertv.pro:8080/isabel/2022/6175
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://logos.xbots.com.mx/111.png" group-title="INFANTIL",DISNEY XD
+http://mastertv.pro:8080/isabel/2022/6176
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD " tvg-logo="https://logos.xbots.com.mx/111.png" group-title="INFANTIL",DISNEY XD 
+http://mastertv.pro:8080/isabel/2022/6177
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD LQ" tvg-logo="https://logos.xbots.com.mx/111.png" group-title="INFANTIL",DISNEY XD LQ
+http://mastertv.pro:8080/isabel/2022/6178
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NATGEO KIDS
+http://mastertv.pro:8080/isabel/2022/6179
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="http://logos.xbots.com.mx/natgeokids.png" group-title="INFANTIL",NATGEO KIDS HD
+http://mastertv.pro:8080/isabel/2022/6180
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NATGEO KIDS LQ
+http://mastertv.pro:8080/isabel/2022/6181
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://logos.xbots.com.mx/110.png" group-title="INFANTIL",NICK HD
+http://mastertv.pro:8080/isabel/2022/6182
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://logos.xbots.com.mx/110.png" group-title="INFANTIL",NICK HD
+http://mastertv.pro:8080/isabel/2022/6183
+#EXTINF:-1 tvg-id="" tvg-name="NICK LQ" tvg-logo="https://logos.xbots.com.mx/110.png" group-title="INFANTIL",NICK LQ
+http://mastertv.pro:8080/isabel/2022/6184
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="INFANTIL",NICK 2
+http://mastertv.pro:8080/isabel/2022/6185
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="INFANTIL",NICK 2 HD
+http://mastertv.pro:8080/isabel/2022/6186
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="https://logos.xbots.com.mx/nick-jr-logo.png" group-title="INFANTIL",NICK JR.
+http://mastertv.pro:8080/isabel/2022/6187
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. LQ" tvg-logo="https://logos.xbots.com.mx/nick-jr-logo.png" group-title="INFANTIL",NICK JR. LQ
+http://mastertv.pro:8080/isabel/2022/6188
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="https://logos.xbots.com.mx/41041.png" group-title="INFANTIL",TEEN NICK
+http://mastertv.pro:8080/isabel/2022/6190
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://logos.xbots.com.mx/108.png" group-title="INFANTIL",TOONCAST
+http://mastertv.pro:8080/isabel/2022/6191
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="https://logos.xbots.com.mx/108.png" group-title="INFANTIL",TOONCAST HD
+http://mastertv.pro:8080/isabel/2022/6192
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST LQ" tvg-logo="https://logos.xbots.com.mx/108.png" group-title="INFANTIL",TOONCAST LQ
+http://mastertv.pro:8080/isabel/2022/6193
+#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="https://i.imgur.com/wt41ZxH.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E FULL HD
+http://mastertv.pro:8080/isabel/2022/6194
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/wt41ZxH.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E HD
+http://mastertv.pro:8080/isabel/2022/6195
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/wt41ZxH.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E HD
+http://mastertv.pro:8080/isabel/2022/6196
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES FULL HD" tvg-logo="https://i.imgur.com/etQyYeb.png" group-title="ENTRETENIMIENTO & NOVELAS",A3 SERIES FULL HD
+http://mastertv.pro:8080/isabel/2022/6197
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA FULL HD" tvg-logo="https://i.imgur.com/bc6AvHw.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CINEMA FULL HD
+http://mastertv.pro:8080/isabel/2022/6198
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLIC FULL HD" tvg-logo="https://i.imgur.com/fXt34CH.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CLIC FULL HD
+http://mastertv.pro:8080/isabel/2022/6199
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON HD" tvg-logo="https://i.imgur.com/ph3tNj4.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON HD
+http://mastertv.pro:8080/isabel/2022/6202
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON SD" tvg-logo="https://i.imgur.com/ph3tNj4.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON SD
+http://mastertv.pro:8080/isabel/2022/6203
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON FULL HD" tvg-logo="https://i.imgur.com/ph3tNj4.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON FULL HD
+http://mastertv.pro:8080/isabel/2022/6204
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO SD" tvg-logo="https://i.imgur.com/u7ZTCdj.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ MUNDO SD
+http://mastertv.pro:8080/isabel/2022/6205
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO HD" tvg-logo="https://i.imgur.com/u7ZTCdj.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ MUNDO HD
+http://mastertv.pro:8080/isabel/2022/6206
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO HD" tvg-logo="https://i.imgur.com/u7ZTCdj.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ MUNDO HD
+http://mastertv.pro:8080/isabel/2022/6207
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="https://i.imgur.com/9TnKVaV.png" group-title="ENTRETENIMIENTO & NOVELAS",COMEDY CENTRAL FULL HD
+http://mastertv.pro:8080/isabel/2022/6208
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="https://i.imgur.com/9TnKVaV.png" group-title="ENTRETENIMIENTO & NOVELAS",COMEDY CENTRAL FULL HD
+http://mastertv.pro:8080/isabel/2022/6209
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/9TnKVaV.png" group-title="ENTRETENIMIENTO & NOVELAS",COMEDY CENTRAL SD
+http://mastertv.pro:8080/isabel/2022/6210
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA FULL HD" tvg-logo="https://i.imgur.com/IJVN4tH.png" group-title="ENTRETENIMIENTO & NOVELAS",DISTRITO COMEDIA FULL HD
+http://mastertv.pro:8080/isabel/2022/6211
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA FULL HD" tvg-logo="https://i.imgur.com/IJVN4tH.png" group-title="ENTRETENIMIENTO & NOVELAS",DISTRITO COMEDIA FULL HD
+http://mastertv.pro:8080/isabel/2022/6212
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA SD" tvg-logo="https://i.imgur.com/IJVN4tH.png" group-title="ENTRETENIMIENTO & NOVELAS",DISTRITO COMEDIA SD
+http://mastertv.pro:8080/isabel/2022/6213
+#EXTINF:-1 tvg-id="" tvg-name="E! FULL HD" tvg-logo="https://i.imgur.com/k4ZDpRH.png" group-title="ENTRETENIMIENTO & NOVELAS",E! FULL HD
+http://mastertv.pro:8080/isabel/2022/6214
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="https://i.imgur.com/k4ZDpRH.png" group-title="ENTRETENIMIENTO & NOVELAS",E! SD
+http://mastertv.pro:8080/isabel/2022/6215
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ SD" tvg-logo="https://i.imgur.com/N9XYEOH.png" group-title="ENTRETENIMIENTO & NOVELAS",GLITZ SD
+http://mastertv.pro:8080/isabel/2022/6216
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC FULL HD" tvg-logo="https://logos.xbots.com.mx/41075.png" group-title="ENTRETENIMIENTO & NOVELAS",MAS CHIC FULL HD
+http://mastertv.pro:8080/isabel/2022/6217
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://logos.xbots.com.mx/1020.png" group-title="ENTRETENIMIENTO & NOVELAS",PASIONES HD
+http://mastertv.pro:8080/isabel/2022/6218
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://logos.xbots.com.mx/1020.png" group-title="ENTRETENIMIENTO & NOVELAS",PASIONES HD
+http://mastertv.pro:8080/isabel/2022/6219
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
+http://mastertv.pro:8080/isabel/2022/6220
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PUERTO RICO HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PUERTO RICO HD
+http://mastertv.pro:8080/isabel/2022/6221
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CHICAGO HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO CHICAGO HD
+http://mastertv.pro:8080/isabel/2022/6222
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
+http://mastertv.pro:8080/isabel/2022/6223
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO FRESNO HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO FRESNO HD
+http://mastertv.pro:8080/isabel/2022/6224
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
+http://mastertv.pro:8080/isabel/2022/6225
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LAS VEGAS HD
+http://mastertv.pro:8080/isabel/2022/6226
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LOS ANGELES HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LOS ANGELES HD
+http://mastertv.pro:8080/isabel/2022/6227
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO MIAMI HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO MIAMI HD
+http://mastertv.pro:8080/isabel/2022/6228
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WEST HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WEST HD
+http://mastertv.pro:8080/isabel/2022/6229
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
+http://mastertv.pro:8080/isabel/2022/6230
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHILADELPHIA HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHILADELPHIA HD
+http://mastertv.pro:8080/isabel/2022/6231
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHOENIX ARIZONA HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHOENIX ARIZONA HD
+http://mastertv.pro:8080/isabel/2022/6232
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN DIEGO HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN DIEGO HD
+http://mastertv.pro:8080/isabel/2022/6233
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN FRANCISCO HD
+http://mastertv.pro:8080/isabel/2022/6234
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO OPC 2 HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN FRANCISCO OPC 2 HD
+http://mastertv.pro:8080/isabel/2022/6235
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WASHINGTON HD" tvg-logo="https://i.imgur.com/2poc2Ep.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WASHINGTON HD
+http://mastertv.pro:8080/isabel/2022/6236
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS FULL HD" tvg-logo="https://i.imgur.com/jqH18mp.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS FULL HD
+http://mastertv.pro:8080/isabel/2022/6237
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS HD" tvg-logo="https://i.imgur.com/jqH18mp.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS HD
+http://mastertv.pro:8080/isabel/2022/6238
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV FULL HD" tvg-logo="https://i.imgur.com/4dgmcPn.png" group-title="ENTRETENIMIENTO & NOVELAS",TRU TV FULL HD
+http://mastertv.pro:8080/isabel/2022/6239
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://i.imgur.com/g3pQg0m.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN NOVELAS
+http://mastertv.pro:8080/isabel/2022/6240
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOVELAS HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION NOVELAS HD
+http://mastertv.pro:8080/isabel/2022/6241
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION NEW YORK HD
+http://mastertv.pro:8080/isabel/2022/6242
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION MIAMI HD
+http://mastertv.pro:8080/isabel/2022/6243
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CHICAGO HD
+http://mastertv.pro:8080/isabel/2022/6244
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION HOUSTON HD
+http://mastertv.pro:8080/isabel/2022/6245
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION ATLANTA HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION ATLANTA HD
+http://mastertv.pro:8080/isabel/2022/6246
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CLEVELAND HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CLEVELAND HD
+http://mastertv.pro:8080/isabel/2022/6247
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION FRESNO HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION FRESNO HD
+http://mastertv.pro:8080/isabel/2022/6248
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION GEORGIA HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION GEORGIA HD
+http://mastertv.pro:8080/isabel/2022/6249
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHOENIX HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION PHOENIX HD
+http://mastertv.pro:8080/isabel/2022/6250
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION WEST HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION WEST HD
+http://mastertv.pro:8080/isabel/2022/6251
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SALT LAKE CITY OPC 1 HD" tvg-logo="https://i.imgur.com/sSIxmW1.jpg" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION SALT LAKE CITY OPC 1 HD
+http://mastertv.pro:8080/isabel/2022/6252
+#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="https://i.imgur.com/prh9VsQ.png" group-title="CINE & SERIES",AXN FULL HD
+http://mastertv.pro:8080/isabel/2022/6253
+#EXTINF:-1 tvg-id="" tvg-name="AXN MEXICO HD" tvg-logo="https://i.imgur.com/prh9VsQ.png" group-title="CINE & SERIES",AXN MEXICO HD
+http://mastertv.pro:8080/isabel/2022/6254
+#EXTINF:-1 tvg-id="" tvg-name="AXN ARGENTINA HD" tvg-logo="https://i.imgur.com/prh9VsQ.png" group-title="CINE & SERIES",AXN ARGENTINA HD
+http://mastertv.pro:8080/isabel/2022/6255
+#EXTINF:-1 tvg-id="" tvg-name="AXN LATINO DUAL AUDIO" tvg-logo="https://i.imgur.com/prh9VsQ.png" group-title="CINE & SERIES",AXN LATINO DUAL AUDIO
+http://mastertv.pro:8080/isabel/2022/6256
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/m4UEGWX.png" group-title="CINE & SERIES",AXN WHITE HD
+http://mastertv.pro:8080/isabel/2022/6257
+#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="https://i.imgur.com/KxFSGcN.png" group-title="CINE & SERIES",AMC FULL HD
+http://mastertv.pro:8080/isabel/2022/6258
+#EXTINF:-1 tvg-id="" tvg-name="AMC ARGENTINA HD" tvg-logo="https://i.imgur.com/KxFSGcN.png" group-title="CINE & SERIES",AMC ARGENTINA HD
+http://mastertv.pro:8080/isabel/2022/6259
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/KxFSGcN.png" group-title="CINE & SERIES",AMC HD
+http://mastertv.pro:8080/isabel/2022/6260
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO HD" tvg-logo="https://i.imgur.com/3DFScQs.png" group-title="CINE & SERIES",CINE LATINO HD
+http://mastertv.pro:8080/isabel/2022/6262
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO LQ" tvg-logo="https://i.imgur.com/3DFScQs.png" group-title="CINE & SERIES",CINE LATINO LQ
+http://mastertv.pro:8080/isabel/2022/6263
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://i.imgur.com/DhR9owE.png" group-title="CINE & SERIES",CINECANAL HD
+http://mastertv.pro:8080/isabel/2022/6264
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FULL HD" tvg-logo="https://i.imgur.com/DhR9owE.png" group-title="CINE & SERIES",CINECANAL FULL HD
+http://mastertv.pro:8080/isabel/2022/6265
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FULL HD" tvg-logo="https://i.imgur.com/DhR9owE.png" group-title="CINE & SERIES",CINECANAL FULL HD
+http://mastertv.pro:8080/isabel/2022/6266
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA HD" tvg-logo="https://i.imgur.com/ylprCkH.png" group-title="CINE & SERIES",CINEMA DINAMITA HD
+http://mastertv.pro:8080/isabel/2022/6267
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FULL HD" tvg-logo="https://i.imgur.com/DMimAXV.png" group-title="CINE & SERIES",CINEMAX FULL HD
+http://mastertv.pro:8080/isabel/2022/6268
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX  HD" tvg-logo="https://i.imgur.com/DMimAXV.png" group-title="CINE & SERIES",CINEMAX  HD
+http://mastertv.pro:8080/isabel/2022/6269
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/DMimAXV.png" group-title="CINE & SERIES",CINEMAX SD
+http://mastertv.pro:8080/isabel/2022/6270
+#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA SD" tvg-logo="https://i.imgur.com/vU8fONV.png" group-title="CINE & SERIES",CLARO CINEMA SD
+http://mastertv.pro:8080/isabel/2022/6271
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA SD" tvg-logo="https://i.imgur.com/aC3Vmal.png" group-title="CINE & SERIES",DE PELICULA SD
+http://mastertv.pro:8080/isabel/2022/6272
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="https://i.imgur.com/aC3Vmal.png" group-title="CINE & SERIES",DE PELICULA HD
+http://mastertv.pro:8080/isabel/2022/6273
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA +" tvg-logo="https://i.imgur.com/PDHz5Nq.png" group-title="CINE & SERIES",DE PELICULA +
+http://mastertv.pro:8080/isabel/2022/6274
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://i.imgur.com/jsYxSXj.png" group-title="CINE & SERIES",DHE
+http://mastertv.pro:8080/isabel/2022/6277
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="https://i.imgur.com/P0fZszN.png" group-title="CINE & SERIES",FILM & ARTS
+http://mastertv.pro:8080/isabel/2022/6278
+#EXTINF:-1 tvg-id="" tvg-name="FX FULL HD" tvg-logo="https://i.imgur.com/Oxr84hs.png" group-title="CINE & SERIES",FX FULL HD
+http://mastertv.pro:8080/isabel/2022/6279
+#EXTINF:-1 tvg-id="" tvg-name="FX FULL HD" tvg-logo="https://i.imgur.com/Oxr84hs.png" group-title="CINE & SERIES",FX FULL HD
+http://mastertv.pro:8080/isabel/2022/6281
+#EXTINF:-1 tvg-id="" tvg-name="FXM FULL HD" tvg-logo="https://i.imgur.com/fnta17W.png" group-title="CINE & SERIES",FXM FULL HD
+http://mastertv.pro:8080/isabel/2022/6283
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="https://i.imgur.com/fnta17W.png" group-title="CINE & SERIES",FXM HD
+http://mastertv.pro:8080/isabel/2022/6284
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="https://i.imgur.com/fnta17W.png" group-title="CINE & SERIES",FXM HD
+http://mastertv.pro:8080/isabel/2022/6285
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN FULL HD" tvg-logo="https://i.imgur.com/wLKFLDj.png" group-title="CINE & SERIES",GOLDEN FULL HD
+http://mastertv.pro:8080/isabel/2022/6286
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="https://i.imgur.com/wLKFLDj.png" group-title="CINE & SERIES",GOLDEN HD
+http://mastertv.pro:8080/isabel/2022/6287
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE FULL HD" tvg-logo="https://i.imgur.com/1zCNRMz.png" group-title="CINE & SERIES",GOLDEN EDGE FULL HD
+http://mastertv.pro:8080/isabel/2022/6288
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS FULL HD" tvg-logo="https://i.imgur.com/tDnWMyg.png" group-title="CINE & SERIES",GOLDEN PLUS FULL HD
+http://mastertv.pro:8080/isabel/2022/6290
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS HD" tvg-logo="https://i.imgur.com/tDnWMyg.png" group-title="CINE & SERIES",GOLDEN PLUS HD
+http://mastertv.pro:8080/isabel/2022/6291
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER FULL HD" tvg-logo="https://i.imgur.com/v2ES7Ta.png" group-title="CINE & SERIES",GOLDEN PREMIER FULL HD
+http://mastertv.pro:8080/isabel/2022/6292
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.imgur.com/v2ES7Ta.png" group-title="CINE & SERIES",GOLDEN PREMIER HD
+http://mastertv.pro:8080/isabel/2022/6293
+#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="https://i.imgur.com/UsvUrVR.png" group-title="HBO MAX",HBO FULL HD
+http://mastertv.pro:8080/isabel/2022/6294
+#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="https://i.imgur.com/UsvUrVR.png" group-title="HBO MAX",HBO FULL HD
+http://mastertv.pro:8080/isabel/2022/6295
+#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="https://i.imgur.com/UsvUrVR.png" group-title="HBO MAX",HBO FULL HD
+http://mastertv.pro:8080/isabel/2022/6296
+#EXTINF:-1 tvg-id="" tvg-name="HBO + FULL HD" tvg-logo="https://i.imgur.com/lgh83Kw.png" group-title="HBO MAX",HBO + FULL HD
+http://mastertv.pro:8080/isabel/2022/6298
+#EXTINF:-1 tvg-id="" tvg-name="HBO + FULL  HD" tvg-logo="https://i.imgur.com/lgh83Kw.png" group-title="HBO MAX",HBO + FULL  HD
+http://mastertv.pro:8080/isabel/2022/6299
+#EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="https://i.imgur.com/lgh83Kw.png" group-title="HBO MAX",HBO + HD
+http://mastertv.pro:8080/isabel/2022/6300
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/wml7lUn.png" group-title="HBO MAX",HBO 2 HD
+http://mastertv.pro:8080/isabel/2022/6301
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/wml7lUn.png" group-title="HBO MAX",HBO 2 SD
+http://mastertv.pro:8080/isabel/2022/6302
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  HD" tvg-logo="https://i.imgur.com/wml7lUn.png" group-title="HBO MAX",HBO 2  HD
+http://mastertv.pro:8080/isabel/2022/6303
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/7d6677J.png" group-title="HBO MAX",HBO FAMILY HD
+http://mastertv.pro:8080/isabel/2022/6304
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FULL HD" tvg-logo="https://i.imgur.com/7d6677J.png" group-title="HBO MAX",HBO FAMILY FULL HD
+http://mastertv.pro:8080/isabel/2022/6305
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/7d6677J.png" group-title="HBO MAX",HBO FAMILY HD
+http://mastertv.pro:8080/isabel/2022/6306
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FULL HD" tvg-logo="https://logos.xbots.com.mx/hbomundi.png" group-title="HBO MAX",HBO MUNDI FULL HD
+http://mastertv.pro:8080/isabel/2022/6307
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://logos.xbots.com.mx/hbomundi.png" group-title="HBO MAX",HBO MUNDI HD
+http://mastertv.pro:8080/isabel/2022/6308
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="https://logos.xbots.com.mx/hbomundi.png" group-title="HBO MAX",HBO MUNDI SD
+http://mastertv.pro:8080/isabel/2022/6309
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FULL HD" tvg-logo="https://logos.xbots.com.mx/1055.png" group-title="HBO MAX",HBO POP FULL HD
+http://mastertv.pro:8080/isabel/2022/6310
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://logos.xbots.com.mx/1055.png" group-title="HBO MAX",HBO POP HD
+http://mastertv.pro:8080/isabel/2022/6311
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP LQ" tvg-logo="https://logos.xbots.com.mx/1055.png" group-title="HBO MAX",HBO POP LQ
+http://mastertv.pro:8080/isabel/2022/6312
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/atsi2Wr.png" group-title="HBO MAX",HBO SIGNATURE HD
+http://mastertv.pro:8080/isabel/2022/6313
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/atsi2Wr.png" group-title="HBO MAX",HBO SIGNATURE SD
+http://mastertv.pro:8080/isabel/2022/6314
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/atsi2Wr.png" group-title="HBO MAX",HBO SIGNATURE SD
+http://mastertv.pro:8080/isabel/2022/6315
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FULL HD" tvg-logo="https://i.imgur.com/RoWDh0V.png" group-title="HBO MAX",HBO XTREME FULL HD
+http://mastertv.pro:8080/isabel/2022/6316
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/RoWDh0V.png" group-title="HBO MAX",HBO XTREME HD
+http://mastertv.pro:8080/isabel/2022/6317
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="https://i.imgur.com/EdegoWY.png" group-title="CINE & SERIES",PARAMOUNT FULL HD
+http://mastertv.pro:8080/isabel/2022/6323
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/EdegoWY.png" group-title="CINE & SERIES",PARAMOUNT HD
+http://mastertv.pro:8080/isabel/2022/6324
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/BVjvZYZ.png" group-title="CINE & SERIES",SPACE SD
+http://mastertv.pro:8080/isabel/2022/6325
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/BVjvZYZ.png" group-title="CINE & SERIES",SPACE HD
+http://mastertv.pro:8080/isabel/2022/6326
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FULL HD" tvg-logo="https://i.imgur.com/BVjvZYZ.png" group-title="CINE & SERIES",SPACE FULL HD
+http://mastertv.pro:8080/isabel/2022/6327
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png" group-title="CINE & SERIES",STAR CHANNEL HD
+http://mastertv.pro:8080/isabel/2022/6331
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FULL HD" tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png" group-title="CINE & SERIES",STAR CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6332
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FULL HD" tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png" group-title="CINE & SERIES",STAR CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6333
+#EXTINF:-1 tvg-id="" tvg-name="STAR TVE FULL HD" tvg-logo="https://i.imgur.com/9P4snEv.jpg" group-title="CINE & SERIES",STAR TVE FULL HD
+http://mastertv.pro:8080/isabel/2022/6352
+#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA HD" tvg-logo="https://logos.xbots.com.mx/Starz_Cinema_2005.png" group-title="CINE & SERIES",STARZ CINEMA HD
+http://mastertv.pro:8080/isabel/2022/6353
+#EXTINF:-1 tvg-id="" tvg-name="STARZ COMEDY FULL HD" tvg-logo="https://logos.xbots.com.mx/Starz_Comedy.png" group-title="CINE & SERIES",STARZ COMEDY FULL HD
+http://mastertv.pro:8080/isabel/2022/6354
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE CLASICC FULL HD" tvg-logo="https://logos.xbots.com.mx/starz-encore-action.png" group-title="CINE & SERIES",STARZ ENCORE CLASICC FULL HD
+http://mastertv.pro:8080/isabel/2022/6355
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE BLACK HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-black.png" group-title="CINE & SERIES",STARZ ENCORE BLACK HD
+http://mastertv.pro:8080/isabel/2022/6356
+#EXTINF:-1 tvg-id="" tvg-name="STARZ EDGE FULL HD" tvg-logo="https://logos.xbots.com.mx/starz-encore.png" group-title="CINE & SERIES",STARZ EDGE FULL HD
+http://mastertv.pro:8080/isabel/2022/6357
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE ESPAÑOL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" group-title="CINE & SERIES",STARZ ENCORE ESPAÑOL
+http://mastertv.pro:8080/isabel/2022/6359
+#EXTINF:-1 tvg-id="" tvg-name="STARZ IN BLACK FULL HD" tvg-logo="https://logos.xbots.com.mx/starz-inblack.png" group-title="CINE & SERIES",STARZ IN BLACK FULL HD
+http://mastertv.pro:8080/isabel/2022/6361
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FULL HD" tvg-logo="https://i.imgur.com/EtNJABB.png" group-title="CINE & SERIES",STUDIO UNIVERSAL FULL HD
+http://mastertv.pro:8080/isabel/2022/6363
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL ARGENTINA HD" tvg-logo="https://i.imgur.com/EtNJABB.png" group-title="CINE & SERIES",STUDIO UNIVERSAL ARGENTINA HD
+http://mastertv.pro:8080/isabel/2022/6364
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/EtNJABB.png" group-title="CINE & SERIES",STUDIO UNIVERSAL HD
+http://mastertv.pro:8080/isabel/2022/6365
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/rjOaKhx.png" group-title="CINE & SERIES",SYFY SD
+http://mastertv.pro:8080/isabel/2022/6366
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/rjOaKhx.png" group-title="CINE & SERIES",SYFY HD
+http://mastertv.pro:8080/isabel/2022/6367
+#EXTINF:-1 tvg-id="" tvg-name="SONY FULL HD" tvg-logo="https://i.imgur.com/ARu1GPh.png" group-title="CINE & SERIES",SONY FULL HD
+http://mastertv.pro:8080/isabel/2022/6368
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/ARu1GPh.png" group-title="CINE & SERIES",SONY HD
+http://mastertv.pro:8080/isabel/2022/6370
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/zTpAzKE.png" group-title="CINE & SERIES",TBS SD
+http://mastertv.pro:8080/isabel/2022/6374
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/zTpAzKE.png" group-title="CINE & SERIES",TBS HD
+http://mastertv.pro:8080/isabel/2022/6375
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="https://i.imgur.com/e7vJRuX.png" group-title="CINE & SERIES",TNT FULL HD
+http://mastertv.pro:8080/isabel/2022/6376
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/e7vJRuX.png" group-title="CINE & SERIES",TNT HD
+http://mastertv.pro:8080/isabel/2022/6377
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="https://i.imgur.com/e7vJRuX.png" group-title="CINE & SERIES",TNT FULL HD
+http://mastertv.pro:8080/isabel/2022/6378
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/S5epxz7.png" group-title="CINE & SERIES",TNT SERIES SD
+http://mastertv.pro:8080/isabel/2022/6379
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES  HD" tvg-logo="https://i.imgur.com/S5epxz7.png" group-title="CINE & SERIES",TNT SERIES  HD
+http://mastertv.pro:8080/isabel/2022/6380
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/S5epxz7.png" group-title="CINE & SERIES",TNT SERIES HD
+http://mastertv.pro:8080/isabel/2022/6381
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/nWF9V9N.png" group-title="CINE & SERIES",TCM SD
+http://mastertv.pro:8080/isabel/2022/6382
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/nWF9V9N.png" group-title="CINE & SERIES",TCM HD
+http://mastertv.pro:8080/isabel/2022/6383
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/nWF9V9N.png" group-title="CINE & SERIES",TCM SD
+http://mastertv.pro:8080/isabel/2022/6384
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.imgur.com/JYpI8Bm.png" group-title="CINE & SERIES",UNIVERSAL CHANNEL HD
+http://mastertv.pro:8080/isabel/2022/6385
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FULL HD" tvg-logo="https://i.imgur.com/JYpI8Bm.png" group-title="CINE & SERIES",UNIVERSAL CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6386
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FULL HD" tvg-logo="https://i.imgur.com/JYpI8Bm.png" group-title="CINE & SERIES",UNIVERSAL CHANNEL FULL HD
+http://mastertv.pro:8080/isabel/2022/6387
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FULL HD" tvg-logo="https://i.imgur.com/Xg560VV.png" group-title="CINE & SERIES",WARNER TV FULL HD
+http://mastertv.pro:8080/isabel/2022/6388
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Xg560VV.png" group-title="CINE & SERIES",WARNER HD
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 01" tvg-logo="http://quebuscasaqui.xyz:8080/images/9aad71376374a19b6a938c44b583e70a.jpg" group-title="CINEMA 24/7",CINE |Cinema 01
+http://mastertv.pro:8080/isabel/2022/74973
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 02" tvg-logo="http://quebuscasaqui.xyz:8080/images/9aad71376374a19b6a938c44b583e70a.jpg" group-title="CINEMA 24/7",CINE |Cinema 02
+http://mastertv.pro:8080/isabel/2022/74974
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 03" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 03
+http://mastertv.pro:8080/isabel/2022/74975
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 04" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 04
+http://mastertv.pro:8080/isabel/2022/74976
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 05" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 05
+http://mastertv.pro:8080/isabel/2022/74977
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 06" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 06
+http://mastertv.pro:8080/isabel/2022/74978
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 07" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 07
+http://mastertv.pro:8080/isabel/2022/74979
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 08" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 08
+http://mastertv.pro:8080/isabel/2022/74980
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 09" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 09
+http://mastertv.pro:8080/isabel/2022/74981
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 10" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 10
+http://mastertv.pro:8080/isabel/2022/74982
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 11" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 11
+http://mastertv.pro:8080/isabel/2022/74983
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 12" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 12
+http://mastertv.pro:8080/isabel/2022/74984
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 13" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 13
+http://mastertv.pro:8080/isabel/2022/74985
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 14" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 14
+http://mastertv.pro:8080/isabel/2022/74986
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 15" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 15
+http://mastertv.pro:8080/isabel/2022/74987
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 16" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 16
+http://mastertv.pro:8080/isabel/2022/74988
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 17" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 17
+http://mastertv.pro:8080/isabel/2022/74989
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 18" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 18
+http://mastertv.pro:8080/isabel/2022/74990
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 19" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 19
+http://mastertv.pro:8080/isabel/2022/74991
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 20" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 20
+http://mastertv.pro:8080/isabel/2022/74992
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 21" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 21
+http://mastertv.pro:8080/isabel/2022/74993
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 22" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 22
+http://mastertv.pro:8080/isabel/2022/74994
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 23" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 23
+http://mastertv.pro:8080/isabel/2022/74995
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 24" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 24
+http://mastertv.pro:8080/isabel/2022/74996
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 25" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 25
+http://mastertv.pro:8080/isabel/2022/74997
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 26" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 26
+http://mastertv.pro:8080/isabel/2022/74998
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 27" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 27
+http://mastertv.pro:8080/isabel/2022/74999
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 28" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 28
+http://mastertv.pro:8080/isabel/2022/75000
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 29" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 29
+http://mastertv.pro:8080/isabel/2022/75001
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 30" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 30
+http://mastertv.pro:8080/isabel/2022/75002
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 31" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 31
+http://mastertv.pro:8080/isabel/2022/75003
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 32" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 32
+http://mastertv.pro:8080/isabel/2022/75004
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 33" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 33
+http://mastertv.pro:8080/isabel/2022/75005
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 34" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 34
+http://mastertv.pro:8080/isabel/2022/75006
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 35" tvg-logo="http://quebuscasaqui.xyz:8080/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg" group-title="CINEMA 24/7",CINE |Cinema 35
+http://mastertv.pro:8080/isabel/2022/75007
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 36" tvg-logo="http://quebuscasaqui.xyz:8080/images/9aad71376374a19b6a938c44b583e70a.jpg" group-title="CINEMA 24/7",CINE |Cinema 36
+http://mastertv.pro:8080/isabel/2022/75008
+#EXTINF:-1 tvg-id="" tvg-name="CINE |Cinema 37" tvg-logo="http://quebuscasaqui.xyz:8080/images/9aad71376374a19b6a938c44b583e70a.jpg" group-title="CINEMA 24/7",CINE |Cinema 37
+http://mastertv.pro:8080/isabel/2022/75009
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Billy y Mandy (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/ee02162d4b4da3c80c93c6452f7ffcc8.jpg" group-title="INFANTILES 24/7",24/7  Billy y Mandy (ES)
+http://mastertv.pro:8080/isabel/2022/75010
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Jimmy Neutrón" tvg-logo="http://quebuscasaqui.xyz:8080/images/75d8049e788ced6ffc8548419d268710.jpg" group-title="INFANTILES 24/7",24/7  Jimmy Neutrón
+http://mastertv.pro:8080/isabel/2022/75011
+#EXTINF:-1 tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="https://modaellos.com/wp-content/uploads/2017/09/la-purga-portada.png" group-title="24/7",24/7  |  La Purga
+http://mastertv.pro:8080/isabel/2022/75012
+#EXTINF:-1 tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="http://quebuscasaqui.xyz:8080/images/27f8258be2a72cd0da1c223de20c0258.png" group-title="INFANTILES 24/7",24/7  |  Los originales
+http://mastertv.pro:8080/isabel/2022/75013
+#EXTINF:-1 tvg-id="" tvg-name="24/7  |  Teen Titans Go" tvg-logo="http://quebuscasaqui.xyz:8080/images/e813cb84f29b61bf775351e4c542b58c.jpg" group-title="INFANTILES 24/7",24/7  |  Teen Titans Go
+http://mastertv.pro:8080/isabel/2022/75014
+#EXTINF:-1 tvg-id="" tvg-name="24/7  |  Tom y Jerry" tvg-logo="http://quebuscasaqui.xyz:8080/images/2f9868289abd653405efbe04b04ea0bd.jpg" group-title="INFANTILES 24/7",24/7  |  Tom y Jerry
+http://mastertv.pro:8080/isabel/2022/75015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alien  (ES)" tvg-logo="https://www.tebeosfera.com/T3content/img/T3_personajes/n/s/aliens.jpg" group-title="24/7",24/7 Alien  (ES)
+http://mastertv.pro:8080/isabel/2022/75016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Better Call Saul (ES)" tvg-logo="https://media.airedesantafe.com.ar/p/8ae19a3e2428ece3539f96f91877aa34/adjuntos/268/imagenes/003/458/0003458388/better-call-saul-nueva-temporada-netflixpng.png" group-title="24/7",24/7 Better Call Saul (ES)
+http://mastertv.pro:8080/isabel/2022/75017
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Curon" tvg-logo="http://quebuscasaqui.xyz:8080/images/3fc460d771143eb593751439adc36d39.jpg" group-title="INFANTILES 24/7",24/7 Curon
+http://mastertv.pro:8080/isabel/2022/75018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="http://quebuscasaqui.xyz:8080/images/d872a75b6c0f6cdec155558489eeb30a.jpg" group-title="INFANTILES 24/7",24/7 Danny Phantom
+http://mastertv.pro:8080/isabel/2022/75019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dave el bárbaro" tvg-logo="http://quebuscasaqui.xyz:8080/images/e3494a3234fb2dff081769592b12ae3a.jpg" group-title="INFANTILES 24/7",24/7 Dave el bárbaro
+http://mastertv.pro:8080/isabel/2022/75020
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="http://quebuscasaqui.xyz:8080/images/7dd117aa9ec03f4816eac4eb04bf8e6e.jpg" group-title="INFANTILES 24/7",24/7 Death Note
+http://mastertv.pro:8080/isabel/2022/75021
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora, la exploradora" tvg-logo="http://quebuscasaqui.xyz:8080/images/449fb68d5c89edca28d303032d310e15.jpg" group-title="INFANTILES 24/7",24/7 Dora, la exploradora
+http://mastertv.pro:8080/isabel/2022/75022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="http://quebuscasaqui.xyz:8080/images/66f02207e167633e3425e509d5448fff.jpg" group-title="INFANTILES 24/7",24/7 Dragon Ball Super
+http://mastertv.pro:8080/isabel/2022/75023
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="http://quebuscasaqui.xyz:8080/images/fe8c4fba4cac6d677773665a9d363851.jpg" group-title="INFANTILES 24/7",24/7 Dragon Ball Z
+http://mastertv.pro:8080/isabel/2022/75024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado Animado (p)(480)" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg/revision/latest/top-crop/width/360/height/450?cb=20160104002357&path-prefix=es" group-title="INFANTILES 24/7",24/7 El Chapulin Colorado Animado (p)(480)
+http://mastertv.pro:8080/isabel/2022/75025
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="http://quebuscasaqui.xyz:8080/images/d4bca47469ec3523a8ee661f24d3b98e.jpg" group-title="INFANTILES 24/7",24/7 El Chavo del Ocho
+http://mastertv.pro:8080/isabel/2022/75026
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El cuento de la criada" tvg-logo="http://quebuscasaqui.xyz:8080/images/7d82f7900cd2c5f26bb222a092a060bd.jpg" group-title="INFANTILES 24/7",24/7 El cuento de la criada
+http://mastertv.pro:8080/isabel/2022/75027
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El proyecto Z" tvg-logo="http://quebuscasaqui.xyz:8080/images/69eeae13645e14ec1f7a287fd8bda791.jpg" group-title="INFANTILES 24/7",24/7 El proyecto Z
+http://mastertv.pro:8080/isabel/2022/75028
+#EXTINF:-1 tvg-id="" tvg-name="24/7 G.I. Joe" tvg-logo="http://quebuscasaqui.xyz:8080/images/1088d17b84201cba910223acc7aa2e9b.jpg" group-title="INFANTILES 24/7",24/7 G.I. Joe
+http://mastertv.pro:8080/isabel/2022/75029
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield Y Amigos" tvg-logo="http://quebuscasaqui.xyz:8080/images/2986f404dc21be28eaa0cfc5a51f6529.jpg" group-title="INFANTILES 24/7",24/7 Garfield Y Amigos
+http://mastertv.pro:8080/isabel/2022/75030
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gasparin y sus amigos" tvg-logo="http://quebuscasaqui.xyz:8080/images/782654d372b0507cac65ace62d4a55cc.jpg" group-title="INFANTILES 24/7",24/7 Gasparin y sus amigos
+http://mastertv.pro:8080/isabel/2022/75031
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/1903bcd87909cb6b1443decf6d52d082.jpg" group-title="INFANTILES 24/7",24/7 Gravity Falls (ES)
+http://mastertv.pro:8080/isabel/2022/75032
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana" tvg-logo="http://quebuscasaqui.xyz:8080/images/67187f09cf8b38dc48816458e15050a4.jpg" group-title="INFANTILES 24/7",24/7 Hannah Montana
+http://mastertv.pro:8080/isabel/2022/75033
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Historia de un crimen: La búsqueda" tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/FC43/production/_106597546_screen20shot202019-04-2520at2012_28_2720pm.png" group-title="24/7",24/7 Historia de un crimen: La búsqueda
+http://mastertv.pro:8080/isabel/2022/75034
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hollywood" tvg-logo="http://quebuscasaqui.xyz:8080/images/8c6d67565282233cd23df87533cde0bb.jpg" group-title="INFANTILES 24/7",24/7 Hollywood
+http://mastertv.pro:8080/isabel/2022/75035
+#EXTINF:-1 tvg-id="" tvg-name="24/7 iCarly ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/7a807c06f4cd7b5cc8c058a1c36782d3.png" group-title="INFANTILES 24/7",24/7 iCarly ( ES)
+http://mastertv.pro:8080/isabel/2022/75036
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Into the Badlands" tvg-logo="http://quebuscasaqui.xyz:8080/images/85df82ffadeb26dff3094cb610945082.jpg" group-title="INFANTILES 24/7",24/7 Into the Badlands
+http://mastertv.pro:8080/isabel/2022/75037
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Iron Man: Anime (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/2383713d18d0a22861298be83a73e164.jpg" group-title="INFANTILES 24/7",24/7 Iron Man: Anime (ES)
+http://mastertv.pro:8080/isabel/2022/75038
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Test (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/ced954c32b90bd0f115e294f047a05cb.jpg" group-title="INFANTILES 24/7",24/7 Johnny Test (ES)
+http://mastertv.pro:8080/isabel/2022/75039
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel" tvg-logo="http://quebuscasaqui.xyz:8080/images/f381bf7b9f4cab36f2029916cd97f196.jpg" group-title="INFANTILES 24/7",24/7 Kenan & Kel
+http://mastertv.pro:8080/isabel/2022/75040
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://quebuscasaqui.xyz:8080/images/58de288dfb2b0247def87a0c59cb82af.jpg" group-title="INFANTILES 24/7",24/7 La familia P. Luche
+http://mastertv.pro:8080/isabel/2022/75041
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Hormiga y El Oso Hormiguero" tvg-logo="http://lacuevainsv.weebly.com/uploads/8/6/7/7/86778378/osohormiguero-y-hormiga.jpg?361" group-title="INFANTILES 24/7",24/7 La Hormiga y El Oso Hormiguero
+http://mastertv.pro:8080/isabel/2022/75042
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La liga de la justicia" tvg-logo="http://quebuscasaqui.xyz:8080/images/a99d753080ac42c8d29d8db0a08496c9.jpg" group-title="INFANTILES 24/7",24/7 La liga de la justicia
+http://mastertv.pro:8080/isabel/2022/75043
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La máscara" tvg-logo="http://quebuscasaqui.xyz:8080/images/21b0340fd5ae7f5a3144e0920ac8840f.jpg" group-title="INFANTILES 24/7",24/7 La máscara
+http://mastertv.pro:8080/isabel/2022/75044
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga de la Justicia Ilimitada" tvg-logo="http://quebuscasaqui.xyz:8080/images/4b0b573ebb1e19545add1d3d97d4562e.jpg" group-title="INFANTILES 24/7",24/7 Liga de la Justicia Ilimitada
+http://mastertv.pro:8080/isabel/2022/75045
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 4 Fantásticos" tvg-logo="http://quebuscasaqui.xyz:8080/images/3ad2b014fda4a8252f52eb2a7d144d60.jpg" group-title="INFANTILES 24/7",24/7 Los 4 Fantásticos
+http://mastertv.pro:8080/isabel/2022/75046
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los magos de Waverly Place" tvg-logo="http://quebuscasaqui.xyz:8080/images/ad63f8b0dee14cf8a2d7a40de98bb359.png" group-title="INFANTILES 24/7",24/7 Los magos de Waverly Place
+http://mastertv.pro:8080/isabel/2022/75047
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los misterios de Moville" tvg-logo="http://quebuscasaqui.xyz:8080/images/ea27f0b8edb805a78d6ac2499efef867.jpg" group-title="INFANTILES 24/7",24/7 Los misterios de Moville
+http://mastertv.pro:8080/isabel/2022/75048
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los padrinos mágicos" tvg-logo="http://quebuscasaqui.xyz:8080/images/e6373a056e413e5c552330efdebf2e5e.jpg" group-title="INFANTILES 24/7",24/7 Los padrinos mágicos
+http://mastertv.pro:8080/isabel/2022/75049
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="http://quebuscasaqui.xyz:8080/images/653ab734ea4b993cd879e9aa28b12295.jpg" group-title="INFANTILES 24/7",24/7 Los Picapiedra
+http://mastertv.pro:8080/isabel/2022/75050
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle" tvg-logo="http://quebuscasaqui.xyz:8080/images/f1ec8aade8652ba291a9e4d17bf6cd82.jpg" group-title="INFANTILES 24/7",24/7 Malcolm in the Middle
+http://mastertv.pro:8080/isabel/2022/75051
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Películas de acción" tvg-logo="http://quebuscasaqui.xyz:8080/images/a76233061194dc2502ff0348b285c610.jpg" group-title="INFANTILES 24/7",24/7 Películas de acción
+http://mastertv.pro:8080/isabel/2022/75052
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Películas de animación" tvg-logo="http://quebuscasaqui.xyz:8080/images/10a324784d4d54563d3f2290ccd64516.jpg" group-title="INFANTILES 24/7",24/7 Películas de animación
+http://mastertv.pro:8080/isabel/2022/75053
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Películas de Romance" tvg-logo="http://quebuscasaqui.xyz:8080/images/ab799bc8e1bbe71f888efd7f494e219b.jpg" group-title="INFANTILES 24/7",24/7 Películas de Romance
+http://mastertv.pro:8080/isabel/2022/75054
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Películas de Terror" tvg-logo="http://quebuscasaqui.xyz:8080/images/7a3f34d919b304e20bbdfd87fa54e7a3.jpg" group-title="INFANTILES 24/7",24/7 Películas de Terror
+http://mastertv.pro:8080/isabel/2022/75055
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Películas infantiles" tvg-logo="http://quebuscasaqui.xyz:8080/images/ca25d421523302baa76454768e8a3fd4.jpg" group-title="INFANTILES 24/7",24/7 Películas infantiles
+http://mastertv.pro:8080/isabel/2022/75056
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="http://quebuscasaqui.xyz:8080/images/21ae0b732080d5dd18ad868291d00b91.jpg" group-title="INFANTILES 24/7",24/7 Peppa Pig
+http://mastertv.pro:8080/isabel/2022/75057
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="http://quebuscasaqui.xyz:8080/images/0596c1640cde63cc84e153711fb0cc2a.jpg" group-title="INFANTILES 24/7",24/7 Pokémon
+http://mastertv.pro:8080/isabel/2022/75058
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RESIDENT EVIL ( ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Resident_Evil_logo.png" group-title="24/7",24/7 RESIDENT EVIL ( ES)
+http://mastertv.pro:8080/isabel/2022/75059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saga Transformers (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/995eaa4164314da9e8f994ce99176221.jpg" group-title="INFANTILES 24/7",24/7 Saga Transformers (ES)
+http://mastertv.pro:8080/isabel/2022/75060
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sam y Cat" tvg-logo="http://quebuscasaqui.xyz:8080/images/1cdfe8e898aeea7b9b486aa9faf85bc4.jpg" group-title="INFANTILES 24/7",24/7 Sam y Cat
+http://mastertv.pro:8080/isabel/2022/75061
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo (p)(1080)" tvg-logo="http://quebuscasaqui.xyz:8080/images/434ed370b3883dc652690de6205c3d1f.jpg" group-title="INFANTILES 24/7",24/7 Scooby-Doo (p)(1080)
+http://mastertv.pro:8080/isabel/2022/75062
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Silvestre Y Piolín" tvg-logo="http://quebuscasaqui.xyz:8080/images/dc6c035e35517e38cab2de08a5913f9d.jpg" group-title="INFANTILES 24/7",24/7 Silvestre Y Piolín
+http://mastertv.pro:8080/isabel/2022/75063
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sonic X ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/b0c138459beaa0c2098aa5e863df659f.jpg" group-title="INFANTILES 24/7",24/7 Sonic X ( ES)
+http://mastertv.pro:8080/isabel/2022/75064
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Space Force" tvg-logo="http://quebuscasaqui.xyz:8080/images/aa1095b19dc1b193c6167300dc143fe8.jpg" group-title="INFANTILES 24/7",24/7 Space Force
+http://mastertv.pro:8080/isabel/2022/75065
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spawn" tvg-logo="https://www.pngkey.com/png/full/228-2287300_spawn-logo-spawn-comic-logo.png" group-title="24/7",24/7 Spawn
+http://mastertv.pro:8080/isabel/2022/75066
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man  (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/709949a14887da4ac105e066eab36190.jpg" group-title="INFANTILES 24/7",24/7 Spider-Man  (ES)
+http://mastertv.pro:8080/isabel/2022/75067
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/a1765d251b3c745f6a47d10eca8ecda3.jpg" group-title="INFANTILES 24/7",24/7 Spider-Man ( ES)
+http://mastertv.pro:8080/isabel/2022/75068
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Picard" tvg-logo="https://www.pngitem.com/pimgs/m/17-174925_star-trek-picard-logo-hd-png-download.png" group-title="24/7",24/7 Star Trek: Picard
+http://mastertv.pro:8080/isabel/2022/75069
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR WARZ (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/381de79246d3b982befa6dd5414540ac.jpg" group-title="INFANTILES 24/7",24/7 STAR WARZ (ES)
+http://mastertv.pro:8080/isabel/2022/75070
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Static Shock" tvg-logo="http://quebuscasaqui.xyz:8080/images/b7d4410d93485e73c93c16cde12ec5e0.jpg" group-title="INFANTILES 24/7",24/7 Static Shock
+http://mastertv.pro:8080/isabel/2022/75071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="http://quebuscasaqui.xyz:8080/images/6f86f9063185075b6796438a85e8f103.jpg" group-title="INFANTILES 24/7",24/7 Stranger Things
+http://mastertv.pro:8080/isabel/2022/75072
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="http://quebuscasaqui.xyz:8080/images/4b930feb4419d5745b9b33b2f134bfdc.jpg" group-title="INFANTILES 24/7",24/7 Street Sharks
+http://mastertv.pro:8080/isabel/2022/75073
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Superman: La serie animada" tvg-logo="http://quebuscasaqui.xyz:8080/images/cce680297dfb85755077a24a043b5f36.jpg" group-title="INFANTILES 24/7",24/7 Superman: La serie animada
+http://mastertv.pro:8080/isabel/2022/75074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teen Titans (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/02c690c6ff5bcc7699f32899df390502.jpg" group-title="INFANTILES 24/7",24/7 Teen Titans (ES)
+http://mastertv.pro:8080/isabel/2022/75075
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://www.regenbig.es/wp-content/uploads/2018/01/The-Big-Bang-Theory-PNG-HD.png" group-title="24/7",24/7 The Big Bang Theory
+http://mastertv.pro:8080/isabel/2022/75076
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Hangover (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/69ae0a0d4cdb8cd1238f8ed8e99acff2.jpg" group-title="INFANTILES 24/7",24/7 The Hangover (ES)
+http://mastertv.pro:8080/isabel/2022/75077
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ThunderCats (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/03586d47cfd6a1c71a79e71be5eed2d6.png" group-title="INFANTILES 24/7",24/7 ThunderCats (ES)
+http://mastertv.pro:8080/isabel/2022/75078
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/a8653d155eec212b5abfe46e627bae53.jpg" group-title="INFANTILES 24/7",24/7 Transformers ( ES)
+http://mastertv.pro:8080/isabel/2022/75079
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Warrior (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/46fcddd9f400709c5b11db8858db6133.jpg" group-title="INFANTILES 24/7",24/7 Warrior (ES)
+http://mastertv.pro:8080/isabel/2022/75080
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X Men, La Serie Animada" tvg-logo="http://quebuscasaqui.xyz:8080/images/babad33dba758243d53b90b95fb6c1e6.jpg" group-title="INFANTILES 24/7",24/7 X Men, La Serie Animada
+http://mastertv.pro:8080/isabel/2022/75081
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  RAPIDOS Y FURIOSOS" tvg-logo="http://i.imgur.com/Re78g96.png" group-title="24/7",24/7 |  RAPIDOS Y FURIOSOS
+http://mastertv.pro:8080/isabel/2022/75082
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Batman del futuro" tvg-logo="http://quebuscasaqui.xyz:8080/images/677b1bfe7abf63d1cfcd48083b90ae48.jpg" group-title="INFANTILES 24/7",24/7 | Batman del futuro
+http://mastertv.pro:8080/isabel/2022/75083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="INFANTILES 24/7",24/7 | Ben 10
+http://mastertv.pro:8080/isabel/2022/75084
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA (M)" tvg-logo="http://quebuscasaqui.xyz:8080/images/93a40c6696ee8b9c136d75e3aa060078.jpg" group-title="INFANTILES 24/7",24/7 | BOB ESPONJA (M)
+http://mastertv.pro:8080/isabel/2022/75085
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS (M)" tvg-logo="https://sextabutaca.com/wp-content/uploads/2018/08/c.png" group-title="24/7",24/7 | CANTINFLAS (M)
+http://mastertv.pro:8080/isabel/2022/75086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | chernobyl ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/0d265b0b6200d22d013c8b559919b08b.jpeg" group-title="INFANTILES 24/7",24/7 | chernobyl ( ES)
+http://mastertv.pro:8080/isabel/2022/75087
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-cartoon-m.png" group-title="24/7",24/7 | Chespirito
+http://mastertv.pro:8080/isabel/2022/75088
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-cartoon-m.png" group-title="24/7",24/7 | Chespirito
+http://mastertv.pro:8080/isabel/2022/75089
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="http://quebuscasaqui.xyz:8080/images/91caba9c08feb60a5b3f868618e18e2f.jpg" group-title="INFANTILES 24/7",24/7 | Dinosaurios
+http://mastertv.pro:8080/isabel/2022/75090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios (M)" tvg-logo="http://quebuscasaqui.xyz:8080/images/e6bbfb06060e0f88d145b43e6492efc0.jpg" group-title="INFANTILES 24/7",24/7 | Dinosaurios (M)
+http://mastertv.pro:8080/isabel/2022/75091
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="http://quebuscasaqui.xyz:8080/images/10b13b19c803d1226abcae8e718328d9.jpg" group-title="INFANTILES 24/7",24/7 | Doraemon
+http://mastertv.pro:8080/isabel/2022/75092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="http://quebuscasaqui.xyz:8080/images/4753d734c93c01fab65d7352a27ca2bc.jpg" group-title="INFANTILES 24/7",24/7 | Dragon Ball
+http://mastertv.pro:8080/isabel/2022/75093
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon ball GT (M)" tvg-logo="http://quebuscasaqui.xyz:8080/images/7ec5dd2e1ea31cf436f833d82fa62a68.jpg" group-title="INFANTILES 24/7",24/7 | Dragon ball GT (M)
+http://mastertv.pro:8080/isabel/2022/75094
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chapulin colorado" tvg-logo="https://www.debate.com.mx/__export/1582304687076/sites/debate/img/2020/02/21/noname_crop1582304592340.png_423682103.png" group-title="24/7",24/7 | El chapulin colorado
+http://mastertv.pro:8080/isabel/2022/75095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="http://quebuscasaqui.xyz:8080/images/67ebef7c82c1ce8e474fcc8a211f823d.jpg" group-title="INFANTILES 24/7",24/7 | El Pajaro Loco
+http://mastertv.pro:8080/isabel/2022/75096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Principel del Rap" tvg-logo="https://www.goodshow.news/u/fotografias/m/2021/11/9/f608x342-3660_33383_0.png" group-title="24/7",24/7 | El Principel del Rap
+http://mastertv.pro:8080/isabel/2022/75097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Family Guy" tvg-logo="https://www.kindpng.com/picc/m/118-1188997_family-guy-png-transparent-picture-stewie-griffin-transparent.png" group-title="24/7",24/7 | Family Guy
+http://mastertv.pro:8080/isabel/2022/75098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Garfield" tvg-logo="http://quebuscasaqui.xyz:8080/images/61a58270b8093c509165df47e5e1dd76.jpg" group-title="INFANTILES 24/7",24/7 | Garfield
+http://mastertv.pro:8080/isabel/2022/75099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Harry Potter" tvg-logo="http://quebuscasaqui.xyz:8080/images/db232a47d30313c096d44029f1439a3b.png" group-title="INFANTILES 24/7",24/7 | Harry Potter
+http://mastertv.pro:8080/isabel/2022/75100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hey Arnold" tvg-logo="http://quebuscasaqui.xyz:8080/images/6475436810c71bd75beb4302b119ef92.jpg" group-title="INFANTILES 24/7",24/7 | Hey Arnold
+http://mastertv.pro:8080/isabel/2022/75101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantiles" tvg-logo="http://quebuscasaqui.xyz:8080/images/1ce40d41a0de5999914b088dfc68a55b.jpg" group-title="INFANTILES 24/7",24/7 | Infantiles
+http://mastertv.pro:8080/isabel/2022/75102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | JOHN WICK" tvg-logo="https://www.funkoteca.com/wp-content/uploads/2021/01/John-Wick.png" group-title="24/7",24/7 | JOHN WICK
+http://mastertv.pro:8080/isabel/2022/75103
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-logo="http://quebuscasaqui.xyz:8080/images/7ce102eabbc626dbcdefecc99f84ae96.jpg" group-title="INFANTILES 24/7",24/7 | JURASSIC PARK
+http://mastertv.pro:8080/isabel/2022/75104
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="http://quebuscasaqui.xyz:8080/images/b7bf514b023df5844e3be3dcf288498d.jpg" group-title="INFANTILES 24/7",24/7 | LA PANTERA ROSA
+http://mastertv.pro:8080/isabel/2022/75105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pequeña LuLu" tvg-logo="http://quebuscasaqui.xyz:8080/images/a028c4e7ca526f694e5b4c83f102b41a.jpg" group-title="INFANTILES 24/7",24/7 | La Pequeña LuLu
+http://mastertv.pro:8080/isabel/2022/75106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="http://quebuscasaqui.xyz:8080/images/f399faff66a3cf75d2009c558abb787e.jpg" group-title="INFANTILES 24/7",24/7 | Looney Tunes
+http://mastertv.pro:8080/isabel/2022/75107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="http://quebuscasaqui.xyz:8080/images/653ab734ea4b993cd879e9aa28b12295.jpg" group-title="INFANTILES 24/7",24/7 | Los Picapiedra
+http://mastertv.pro:8080/isabel/2022/75108
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons (M)" tvg-logo="http://quebuscasaqui.xyz:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg" group-title="INFANTILES 24/7",24/7 | Los Simpsons (M)
+http://mastertv.pro:8080/isabel/2022/75109
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los super campeones" tvg-logo="http://quebuscasaqui.xyz:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="INFANTILES 24/7",24/7 | Los super campeones
+http://mastertv.pro:8080/isabel/2022/75110
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MATRIX  ( ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/09cfa13a42b205abcee891db707e48e2.jpg" group-title="INFANTILES 24/7",24/7 | MATRIX  ( ES)
+http://mastertv.pro:8080/isabel/2022/75111
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr Bean" tvg-logo="http://pngimg.com/uploads/mr_bean/mr_bean_PNG32.png" group-title="24/7",24/7 | Mr Bean
+http://mastertv.pro:8080/isabel/2022/75112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="http://quebuscasaqui.xyz:8080/images/cfd5025e88ff1373d2c62d19d3969fdc.jpg" group-title="INFANTILES 24/7",24/7 | One Punch Man
+http://mastertv.pro:8080/isabel/2022/75113
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ranma 1/2" tvg-logo="http://quebuscasaqui.xyz:8080/images/c5f6efa5198a2b68d056ea11d8b4d73b.jpg" group-title="INFANTILES 24/7",24/7 | Ranma 1/2
+http://mastertv.pro:8080/isabel/2022/75114
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Saga X-MEN" tvg-logo="http://quebuscasaqui.xyz:8080/images/7f152d690892e3d580e8d55e24d5d37f.jpg" group-title="INFANTILES 24/7",24/7 | Saga X-MEN
+http://mastertv.pro:8080/isabel/2022/75115
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SAW   (ES)" tvg-logo="https://www.picng.com/upload/hand_saw/png_hand_saw_45881.png" group-title="24/7",24/7 | SAW   (ES)
+http://mastertv.pro:8080/isabel/2022/75116
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SHREK" tvg-logo="http://quebuscasaqui.xyz:8080/images/2c80899c806fb224025871160e1718f0.jpg" group-title="INFANTILES 24/7",24/7 | SHREK
+http://mastertv.pro:8080/isabel/2022/75117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="http://quebuscasaqui.xyz:8080/images/b701ab3c9badee6f491a0019e75ff1ab.jpg" group-title="INFANTILES 24/7",24/7 | Smallville
+http://mastertv.pro:8080/isabel/2022/75118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SPARTACUS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Spartacus-Background-PNG-Image.png" group-title="24/7",24/7 | SPARTACUS
+http://mastertv.pro:8080/isabel/2022/75119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Avengers (ES)" tvg-logo="http://quebuscasaqui.xyz:8080/images/ec5a5b34e5b82c6cb3d94d2914119f58.jpg" group-title="INFANTILES 24/7",24/7 | The Avengers (ES)
+http://mastertv.pro:8080/isabel/2022/75120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://www.regenbig.es/wp-content/uploads/2018/01/The-Big-Bang-Theory-PNG-HD.png" group-title="24/7",24/7 | The Big Bang Theory
+http://mastertv.pro:8080/isabel/2022/75121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY" tvg-logo="http://quebuscasaqui.xyz:8080/images/a4e29aa17ec78ff8554059dc2eb73514.jpg" group-title="INFANTILES 24/7",24/7 | TOY STORY
+http://mastertv.pro:8080/isabel/2022/75122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh" tvg-logo="http://quebuscasaqui.xyz:8080/images/7e401786b361f1a4e81ec615ffa8940c.jpg" group-title="INFANTILES 24/7",24/7 | Yu-Gi-Oh
+http://mastertv.pro:8080/isabel/2022/75123
+
+
+----------------------------------------------cine y series------------------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="P | .../A3cine HD" tvg-logo="" group-title="Cine y Series",P | .../A3cine HD
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11523
 #EXTINF:-1 tvg-id="" tvg-name="P | .../Azteca Cinema" tvg-logo="" group-title="Cine y Series",P | .../Azteca Cinema
